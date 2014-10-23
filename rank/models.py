@@ -6,8 +6,8 @@ class Player(models.Model):
     position = models.CharField(max_length=100)
 
 class Matchup(models.Model):
-    player1 = models.ForeignKey(Musician)
-    player2 = models.ForeignKey(Musician)
+    player1 = models.ForeignKey(Player, related_name='player_1')
+    player2 = models.ForeignKey(Player, related_name='player_2')
     position = models.CharField(max_length=100) #QB/RB/WR/TE/FLEX/DST/K
     p1Votes = models.IntegerField()
     p2Votes = models.IntegerField()
