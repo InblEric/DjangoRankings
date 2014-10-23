@@ -1,0 +1,13 @@
+<p>
+PLAYERS
+</p>
+
+{% if players %}
+    <ul>
+	{% for player in players %}
+    	<li>{{ player.first_name }}</li>
+	{% endfor %}
+	</ul>
+{% else %}
+    <p>No players are available.</p>
+{% endif %}
