@@ -64,6 +64,10 @@ DATABASES = {
     'default': dj_database_url.config(default='sqlite:///' + os.path.join(BASE_DIR, 'db.sqlite3'))
 }
 
+FIXTURE_DIRS = (
+   '../rank/fixtures',
+)
+
 """DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',

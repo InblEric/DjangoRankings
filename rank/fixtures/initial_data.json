@@ -1,0 +1,29 @@
+[
+    {
+        "fields": {
+            "position": "QB",
+            "first_name": "Peyton",
+            "last_name": "Manning"
+        },
+        "model": "rank.player",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "position": "QB",
+            "first_name": "Aaron",
+            "last_name": "Rodgers"
+        },
+        "model": "rank.player",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "position": "QB",
+            "first_name": "Andrew",
+            "last_name": "Luck"
+        },
+        "model": "rank.player",
+        "pk": 3
+    }
+]
