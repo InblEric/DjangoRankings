@@ -11,3 +11,16 @@ Hello, world. You're at the rankings index. Players: {{ players }}
 {% else %}
     <p>No players are available.</p>
 {% endif %}
+
+<p>
+Matchups:
+</p>
+{% if matchups %}
+    <ul>
+	{% for matchup in matchups %}
+    	<li>{{ matchup.player1.first_name }} vs {{ matchup.player2.first_name }}: {{matchup.matchupLeader}}</li>
+	{% endfor %}
+	</ul>
+{% else %}
+    <p>No matchups are available.</p>
+{% endif %}

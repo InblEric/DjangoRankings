@@ -9,12 +9,14 @@ from rank.models import Player,Matchup
 def index(request):
     plist = []
     for i in Player.objects.all():
-        pass
         plist.append(i)
+    mlist = []
+    for i in Matchup.objects.all():
+        mlist.append(i)
     
     template = loader.get_template('rank/index.html')
     context = RequestContext(request, {
-        'players': plist,
+        'players': plist, 'matchups': mlist,
     })
     return HttpResponse(template.render(context))
     
