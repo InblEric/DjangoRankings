@@ -1,9 +1,26 @@
+body{
+	  margin: 0 auto;
+	  background-color:#D19A48;
+	  
+}
+
+.title{
+	font-size: 18;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
 #welcome{
 	text-align: center;
+	font-size: 72;
+	background-color:#2D5FB7;
+	border: solid;
 }
 
 #parent{
+	
 	text-align: center;
+	
 }
 
 .position{
@@ -11,6 +28,8 @@
     display:inline-block;
 	width: 200px;
 	margin: 20px;
+	text-align: left;
+	border: dotted;
 }
 
 #QB{

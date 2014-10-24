@@ -6,11 +6,11 @@
 	</head>
 	<body>
 	<p id="welcome">
-	Hello, world. You're at the rankings page.
+	Player Rankings
 	</p>
 	<div id="parent">
 	<div id="QB" class="position">
-	<p> Quarterbacks:
+	<p> <span class="title">Quarterbacks:</span>
 	{% if qbs %}
 		<ul>
 		{% for player in qbs %}
@@ -24,7 +24,7 @@
 	</div>
 	
 	<div id="RB" class="position">
-	<p> Running backs:
+	<p> <span class="title">Running backs:</span>
 	{% if rbs %}
 		<ul>
 		{% for player in rbs %}
@@ -38,7 +38,7 @@
 	</div>
 	
 	<div id="WR" class="position">
-	<p> Wide Receivers:
+	<p> <span class="title">Wide Receivers:</span>
 	{% if wrs %}
 		<ul>
 		{% for player in wrs %}
@@ -52,7 +52,7 @@
 	</div>
 	
 	<div id="TE" class="position">
-	<p> Tight Ends:
+	<p> <span class="title">Tight Ends:</span>
 	{% if tes %}
 		<ul>
 		{% for player in tes %}
@@ -66,7 +66,7 @@
 	</div>
 
 	<div id="Flex" class="position">
-	<p> Flex:
+	<p> <span class="title">Flex:</span>
 	{% if flex %}
 		<ul>
 		{% for player in flex %}
