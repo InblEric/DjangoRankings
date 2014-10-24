@@ -1,63 +1,82 @@
-<p>
-Hello, world. You're at the rankings page.
-</p>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Homepage</title>
+	</head>
+	<body>
+	<p id="welcome">
+	Hello, world. You're at the rankings page.
+	</p>
+	
+	<div id="QB" class="position">
+	<p> Quarterbacks:
+	{% if qbs %}
+		<ul>
+		{% for player in qbs %}
+			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
+		{% endfor %}
+		</ul>
+	{% else %}
+		<p>No Quarterbacks are available.</p>
+	{% endif %}
+	</p>
+	</div>
+	
+	<div id="RB" class="position">
+	<p> Running backs:
+	{% if rbs %}
+		<ul>
+		{% for player in rbs %}
+			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
+		{% endfor %}
+		</ul>
+	{% else %}
+		<p>No Running backs are available.</p>
+	{% endif %}
+	</p>
+	</div>
+	
+	<div id="WR" class="position">
+	<p> Wide Receivers:
+	{% if wrs %}
+		<ul>
+		{% for player in wrs %}
+			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
+		{% endfor %}
+		</ul>
+	{% else %}
+		<p>No Wide Receivers are available.</p>
+	{% endif %}
+	</p>
+	</div>
+	
+	<div id="TE" class="position">
+	<p> Tight Ends:
+	{% if tes %}
+		<ul>
+		{% for player in tes %}
+			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
+		{% endfor %}
+		</ul>
+	{% else %}
+		<p>No Tight Ends are available.</p>
+	{% endif %}
+	</p>
+	</div>
 
-<p> Quarterbacks:
-{% if qbs %}
-    <ul>
-	{% for player in qbs %}
-    	<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No Quarterbacks are available.</p>
-{% endif %}
-</p>
-
-<p> Running backs:
-{% if rbs %}
-    <ul>
-	{% for player in rbs %}
-    	<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No Running backs are available.</p>
-{% endif %}
-</p>
-
-<p> Wide Receivers:
-{% if wrs %}
-    <ul>
-	{% for player in wrs %}
-    	<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No Wide Receivers are available.</p>
-{% endif %}
-</p>
-
-<p> Tight Ends:
-{% if tes %}
-    <ul>
-	{% for player in tes %}
-    	<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No Tight Ends are available.</p>
-{% endif %}
-</p>
-
-<p> Flex:
-{% if flex %}
-    <ul>
-	{% for player in flex %}
-    	<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No Flex players are available.</p>
-{% endif %}
-</p>
+	<div id="Flex" class="position">
+	<p> Flex:
+	{% if flex %}
+		<ul>
+		{% for player in flex %}
+			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
+		{% endfor %}
+		</ul>
+	{% else %}
+		<p>No Flex players are available.</p>
+	{% endif %}
+	</p>
+	</div>
+	
+	</body>
+</html>
