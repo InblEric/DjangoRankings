@@ -2,15 +2,19 @@
 	text-align: center;
 }
 
+#parent{
+	text-align: center;
+}
+
 .position{
 	text-align:center;
-    float: left; 
+    display:inline-block;
 	width: 200px;
 	margin: 20px;
 }
 
 #QB{
-
+	
 }
 #RB{
 
