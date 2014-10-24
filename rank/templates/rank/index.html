@@ -1,26 +1,13 @@
 <p>
-Hello, world. You're at the rankings index. Players: {{ players }} 
-</p>
+Hello, world. You're at the home page. 
 
-{% if players %}
-    <ul>
-	{% for player in players %}
-    	<li>{{ player.first_name }}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No players are available.</p>
-{% endif %}
+You have a couple options.
+</p>
 
 <p>
-Matchups:
+<button type="button" onclick="window.location=/matchups/">vote on matchups</button>
 </p>
-{% if matchups %}
-    <ul>
-	{% for matchup in matchups %}
-    	<li>{{ matchup.player1.first_name }} vs {{ matchup.player2.first_name }}: {{matchup.matchupLeader}}</li>
-	{% endfor %}
-	</ul>
-{% else %}
-    <p>No matchups are available.</p>
-{% endif %}
+
+<p>
+<button type="button" onclick="window.location=/players/">See ranks</button>
+</p>

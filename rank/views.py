@@ -16,17 +16,20 @@ def index(request):
     
     template = loader.get_template('rank/index.html')
     context = RequestContext(request, {
-        'players': plist, 'matchups': mlist,
+        ''''players': plist, 'matchups': mlist,'''
     })
     return HttpResponse(template.render(context))
     
     #return HttpResponse("Hello, world. You're at the rankings index." + " Players: " +str(plist) )
     
-def QB(request):
+
+
+    
+"""def QB(request):
     plist = []
     for i in Player.objects.all():
         pass
         if(i.position == "QB"):
             plist.append(str(i.__unicode__()))
     
-    return HttpResponse("Hello, world. You're at the Quarterback index." + " Players: " +str(plist) )
+    return HttpResponse("Hello, world. You're at the Quarterback index." + " Players: " +str(plist) )"""

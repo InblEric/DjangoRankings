@@ -26,6 +26,5 @@ class Matchup(models.Model):
     
     def __unicode__(self):
         player1name = self.player1.__unicode__()
-        player2name = self.player2.__unicode__()
-        
+        player2name = self.player2.__unicode__()        
         return player1name + " vs " + player2name
