@@ -9,7 +9,7 @@ class Player(models.Model):
         return self.first_name + " " + self.last_name + ", " + self.position
 
 class Matchup(models.Model):
-    created = models.DateTimeField()
+    created_at = models.DateTimeField()
     player1 = models.ForeignKey(Player, related_name='player_1')
     player2 = models.ForeignKey(Player, related_name='player_2')
     position = models.CharField(max_length=100) #QB/RB/WR/TE/FLEX/DST/K
