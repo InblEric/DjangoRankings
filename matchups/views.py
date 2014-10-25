@@ -25,7 +25,7 @@ def get(request, id):
     except:
         pass#return HttpResponse("invalid matchup")    
     template = loader.get_template('matchups/specific.html')
-    context = RequestContext(request, {'id':id, 'names':names, 'matchup':matchup,})
+    context = RequestContext(request, {'id':id, 'names':names, 'matchup':matchup, 'mlist':mList,})
     return HttpResponse(template.render(context))
     
 def vote1(request, id):

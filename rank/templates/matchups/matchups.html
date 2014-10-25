@@ -21,15 +21,15 @@
 		
 		
 		<p> Matchups:
-	{% if mlist %}
+		{% if mlist %}
 		<ul>
 		{% for matchup in mlist %}
 			<li>{{ matchup.player1.first_name }} : {{ matchup.p1Votes}} vs {{ matchup.player2.first_name }} : {{ matchup.p2Votes}}</li>
 		{% endfor %}
 		</ul>
-	{% else %}
+		{% else %}
 		<p>No matchups are available.</p>
-	{% endif %}
+		{% endif %}
 	</p>
 		
 		
