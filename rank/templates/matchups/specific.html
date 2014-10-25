@@ -2,27 +2,58 @@
 	<head>
 		<p>
 			Hello, everyone. You're at a specific vote page for id: {{ id }}
-		</p>
-		{% if names %}
-			<p>		
-				{{ names.0 }} vs {{ names.1 }}
-			</p>
-	    {% else %}
-			<p>Invalid Matchup.</p>
-   	    {% endif %}
+		</p>		
 	</head>
 	<body>
+	
+	
+	    {% if names %}
+			<p>		
+				<button onclick="vote1()">{{ names.0 }}</button> vs <button onclick="vote2()">{{ names.1 }}</button>
+			</p>
+			<p>
+			    <button onclick="myFunction()">New matchup!</button>
+		    </p>
+		    <p>
+			    <button onclick="matchups()">Back to matchups</button>
+		    </p>
+	    {% else %}
+			<p>
+			Out of matchups! Thanks for voting.
+			<button onclick="home()">Home page</button>
+			</p>
+			
+   	    {% endif %}
+	
 
-		<p>
-			<button onclick="myFunction()">New matchup!</button>
-		</p>
+		
 
 		<!--make this pick a random matchup and doesn't repeat!!-->
 		<script>
 			function myFunction() {
-		    var num = {{id}}+1
-			window.location = "/matchups/"+num
-			}
+			    var num = {{id}}+1
+				window.location = "/matchups/"+num
+			}			
+		</script>
+		<script>
+			function vote1() {
+			    window.location = "/matchups/" + {{ id }} + "/vote1"				
+			}			
+		</script>
+		<script>
+			function vote2() {
+				window.location = "/matchups/" + {{ id }} + "/vote2"				
+			}			
+		</script>
+		<script>
+			function home() {
+			    window.location = "/"
+			}			
+		</script>
+		<script>
+			function matchups() {
+			    window.location = "/matchups/"
+			}			
 		</script>
 
 	</body>
