@@ -3,6 +3,13 @@
 		<p>
 			Hello, everyone. You're at a specific vote page for id: {{ id }}
 		</p>
+		{% if names %}
+			<p>		
+				{{ names.0 }} vs {{ names.1 }}
+			</p>
+	    {% else %}
+			<p>Invalid Matchup.</p>
+   	    {% endif %}
 	</head>
 	<body>
 
