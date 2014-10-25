@@ -1,3 +1,14 @@
 <p>
-Hello, everyone. You're at a specific vote page.
+Hello, everyone. You're at a specific vote page for id: {{ id }}
 </p>
+
+<p>
+	<button onclick="myFunction()">New matchup!</button>
+</p>
+
+<script>
+function myFunction() {
+    var num = {{id}}+1
+	window.location = "/matchups/"+num
+}
+</script>
