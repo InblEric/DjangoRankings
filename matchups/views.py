@@ -37,14 +37,14 @@ def vote1(request, id):
         return HttpResponse("invalid matchup")    
     matchup.p1Votes = matchup.p1Votes + 1
     matchup.save()
-    newid = str(int(id)+1)
-    uri = "/matchups/"+newid
-    js = "window.location = '" + uri + "'"
+    #newid = str(int(id)+1)
+    #uri = "/matchups/"+newid
+    #js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
-    resp.write("<body onload='myFunction()'>")
-    resp.write("<script> function myFunction() {"+js+"}</script>")
+    #resp.write("<body onload='myFunction()'>")
+    #resp.write("<script> function myFunction() {"+js+"}</script>")
     resp.write("thanks for voting, player 1 has " + str(matchup.p1Votes) +  " votes!")
-    resp.write("</body>")
+    #resp.write("</body>")
     return resp
     
 def vote2(request, id):
@@ -56,11 +56,12 @@ def vote2(request, id):
         return HttpResponse("invalid matchup")    
     matchup.p2Votes = matchup.p2Votes + 1
     matchup.save()
-    newid = str(int(id)+1)
-    uri = "/matchups/"+newid
-    js = "window.location = '" + uri + "'"
+    #newid = str(int(id)+1)
+    #uri = "/matchups/"+newid
+    #js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
-    resp.write("<body onload='myFunction()'>")
-    resp.write("<script> function myFunction() {"+js+"}</script>")
-    resp.write("</body>")
+    #resp.write("<body onload='myFunction()'>")
+    #resp.write("<script> function myFunction() {"+js+"}</script>")
+    resp.write("thanks for voting, player 1 has " + str(matchup.p1Votes) +  " votes!")
+    #resp.write("</body>")
     return resp
