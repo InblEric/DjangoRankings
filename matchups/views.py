@@ -14,6 +14,6 @@ def mindex(request):
     
 def get(request, id):
     template = loader.get_template('matchups/specific.html')
-    context = RequestContext(request, {})
+    context = RequestContext(request, {'id':id})
     #return HttpResponse("id = " + str(id))    
     return HttpResponse(template.render(context))
