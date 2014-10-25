@@ -38,7 +38,7 @@ def vote1(request, id):
     matchup.p1Votes = matchup.p1Votes + 1
     matchup.save()
     #newid = str(int(id)+1)
-    uri = "/matchups/"+int(id)
+    uri = "/matchups/"+str(int(id))
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
     resp.write("<body onload='myFunction()'>")
@@ -57,7 +57,7 @@ def vote2(request, id):
     matchup.p2Votes = matchup.p2Votes + 1
     matchup.save()
     #newid = str(int(id)+1)
-    uri = "/matchups/"+int(id)
+    uri = "/matchups/"+str(int(id))
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
     resp.write("<body onload='myFunction()'>")
