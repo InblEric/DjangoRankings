@@ -15,7 +15,7 @@ class Matchup(models.Model):
     p1Votes = models.IntegerField()
     p2Votes = models.IntegerField()
     week = models.IntegerField()
-    created = models.DateField()
+    created = models.DateTimeField()
     
     def matchupLeader(self):
         if(self.p1Votes > self.p2Votes):
