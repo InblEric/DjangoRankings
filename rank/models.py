@@ -4,18 +4,18 @@ class Player(models.Model):
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
     position = models.CharField(max_length=100)
-    
+
     def __unicode__(self):
         return self.first_name + " " + self.last_name + ", " + self.position
 
 class Matchup(models.Model):
+    created = models.DateTimeField()
     player1 = models.ForeignKey(Player, related_name='player_1')
     player2 = models.ForeignKey(Player, related_name='player_2')
     position = models.CharField(max_length=100) #QB/RB/WR/TE/FLEX/DST/K
     p1Votes = models.IntegerField()
     p2Votes = models.IntegerField()
-    week = models.IntegerField()
-    created = models.DateTimeField()
+    week = models.IntegerField()    
     
     def matchupLeader(self):
         if(self.p1Votes > self.p2Votes):
