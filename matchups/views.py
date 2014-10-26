@@ -9,14 +9,14 @@ from rank.models import Player,Matchup
 
 # Create your views here.
 def mindex(request):
-    mlist = list(Matchup.objects.all())
+    mlist = list(Matchup.objects.order_by('created_at'))
     template = loader.get_template('matchups/matchups.html')
     context = RequestContext(request, {'mlist':mlist})
     return HttpResponse(template.render(context))
     
 def get(request, id):
     names = []
-    mList = list(Matchup.objects.all())
+    mList = list(Matchup.objects.order_by('created_at'))
     matchup = None
     try:
         matchup = mList[int(id)-1]
@@ -30,15 +30,15 @@ def get(request, id):
     
 def vote1(request, id):
     names = []
-    mList = list(Matchup.objects.all())
+    mList = list(Matchup.objects.order_by('created_at'))
     try:
         matchup = mList[int(id)-1]
     except:
         return HttpResponse("invalid matchup")    
     matchup.p1Votes = matchup.p1Votes + 1
     matchup.save()
-    #newid = str(int(id)+1)
-    uri = "/matchups/"+str(int(id))
+    newid = str(int(id)+1)
+    uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
     resp.write("<body onload='myFunction()'>")
@@ -49,15 +49,15 @@ def vote1(request, id):
     
 def vote2(request, id):
     names = []
-    mList = list(Matchup.objects.all())
+    mList = list(Matchup.objects.order_by('created_at'))
     try:
         matchup = mList[int(id)-1]
     except:
         return HttpResponse("invalid matchup")    
     matchup.p2Votes = matchup.p2Votes + 1
     matchup.save()
-    #newid = str(int(id)+1)
-    uri = "/matchups/"+str(int(id))
+    #=newid = str(int(id)+1)
+    uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
     resp.write("<body onload='myFunction()'>")
