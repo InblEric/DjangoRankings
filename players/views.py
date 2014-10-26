@@ -14,7 +14,7 @@ def pindex(request):
     wrs = []
     tes = []
     flex = []
-    for i in Player.objects.all():
+    for i in Player.objects.all().order_by('-elo'):
         if(str(i.position) == "QB"):
             qbs.append(i)
         if(str(i.position) == "RB"):

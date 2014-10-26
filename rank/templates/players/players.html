@@ -14,7 +14,7 @@
 	{% if qbs %}
 		<ul>
 		{% for player in qbs %}
-			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}</li>
+			<li>{{ player.first_name }} {{ player.last_name }}, {{ player.position }}, elo: {{ player.elo }}</li>
 		{% endfor %}
 		</ul>
 	{% else %}
