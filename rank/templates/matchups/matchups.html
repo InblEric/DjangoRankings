@@ -24,7 +24,8 @@
 		{% if mlist %}
 		<ul>
 		{% for matchup in mlist %}
-			<li>{{ matchup.player1.first_name }} : {{ matchup.p1Votes}} : {{ matchup.player1.elo }}elo vs {{ matchup.player2.first_name }} : {{ matchup.p2Votes}} : {{ matchup.player2.elo }}elo</li>
+			<li><p>{{ matchup.player1.first_name }} : {{ matchup.p1Votes}} votes vs {{ matchup.player2.first_name }} : {{ matchup.p2Votes}} votes</p>
+			<p>{{ matchup.player1.elo }} elo vs {{ matchup.player2.elo }} elo</p></li>
 		{% endfor %}
 		</ul>
 		{% else %}
