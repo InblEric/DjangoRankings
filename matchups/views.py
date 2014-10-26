@@ -36,6 +36,16 @@ def vote1(request, id):
     except:
         return HttpResponse("invalid matchup")    
     matchup.p1Votes = matchup.p1Votes + 1
+    
+    ################
+    #UPDATE ELO HERE
+    #PLAYER 1 WINS
+    #PLAYER 2 LOSES
+    #...
+    #p1.save()
+    #p2.save()
+    ################
+    
     matchup.save()
     newid = str(int(id)+1)
     uri = "/matchups/"+newid
@@ -55,6 +65,15 @@ def vote2(request, id):
     except:
         return HttpResponse("invalid matchup")    
     matchup.p2Votes = matchup.p2Votes + 1
+    
+    ################
+    #UPDATE ELO HERE
+    #PLAYER 1 WINS
+    #PLAYER 2 LOSES
+    #p1.save()
+    #p2.save()    
+    ################
+    
     matchup.save()
     newid = str(int(id)+1)
     uri = "/matchups/"+newid
