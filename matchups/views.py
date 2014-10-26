@@ -56,7 +56,7 @@ def vote2(request, id):
         return HttpResponse("invalid matchup")    
     matchup.p2Votes = matchup.p2Votes + 1
     matchup.save()
-    #=newid = str(int(id)+1)
+    newid = str(int(id)+1)
     uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
