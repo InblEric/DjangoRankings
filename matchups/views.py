@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.template import RequestContext, loader
 import logging
+from math import exp
 
 # Create your views here.
 
@@ -36,6 +37,25 @@ def vote1(request, id):
     except:
         return HttpResponse("invalid matchup")    
     matchup.p1Votes = matchup.p1Votes + 1
+    
+    p1 = matchup.player1
+    p2 = matchup.player2    
+    sep1 = 1 / (exp((p2.elo - p1.elo)/(p1.elo)) + 1)
+    sep2 = 1 / (exp((p1.elo - p2.elo)/(p1.elo)) + 1)    
+    p1.elo = p1.elo + (k(p1.elo) *(1-sep1))
+    p2.elo = p2.elo + (k(p2.elo) *(0-sep2))        
+    p1.save()
+    p2.save()    
+
+    ################
+    #UPDATE ELO HERE
+    #PLAYER 1 WINS
+    #PLAYER 2 LOSES
+    #...
+    #p1.save()
+    #p2.save()
+    ################
+    
     matchup.save()
     newid = str(int(id)+1)
     uri = "/matchups/"+newid
@@ -55,6 +75,24 @@ def vote2(request, id):
     except:
         return HttpResponse("invalid matchup")    
     matchup.p2Votes = matchup.p2Votes + 1
+    
+    p1 = matchup.player1
+    p2 = matchup.player2
+    sep1 = 1 / (exp((p2.elo - p1.elo)/(p1.elo)) + 1)
+    sep2 = 1 / (exp((p1.elo - p2.elo)/(p1.elo)) + 1)    
+    p1.elo = p1.elo + (k(p1.elo) *(0-sep1))
+    p2.elo = p2.elo + (k(p2.elo) *(1-sep2))  
+    p1.save()
+    p2.save()
+        
+    ################
+    #UPDATE ELO HERE
+    #PLAYER 1 WINS
+    #PLAYER 2 LOSES
+    #p1.save()
+    #p2.save()    
+    ################
+    
     matchup.save()
     newid = str(int(id)+1)
     uri = "/matchups/"+newid
@@ -65,3 +103,7 @@ def vote2(request, id):
     resp.write("thanks for voting, player 1 has " + str(matchup.p1Votes) +  " votes!")
     resp.write("</body>")
     return resp
+    
+def k(elo):
+    ans = 116 - (0.04076923076923 * (elo-100))
+    return ans

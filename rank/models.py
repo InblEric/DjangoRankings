@@ -4,7 +4,7 @@ class Player(models.Model):
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50)
     position = models.CharField(max_length=100)
-
+    elo = models.FloatField(default=750.0)
     def __unicode__(self):
         return self.first_name + " " + self.last_name + ", " + self.position
 

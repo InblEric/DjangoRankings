@@ -3,7 +3,8 @@
         "fields": {
             "position": "QB",
             "first_name": "Peyton",
-            "last_name": "Manning"
+            "last_name": "Manning",
+            "elo": 750.0
         },
         "model": "rank.player",
         "pk": 1
@@ -12,7 +13,8 @@
         "fields": {
             "position": "QB",
             "first_name": "Aaron",
-            "last_name": "Rodgers"
+            "last_name": "Rodgers",
+            "elo": 750.0
         },
         "model": "rank.player",
         "pk": 2
@@ -21,7 +23,8 @@
         "fields": {
             "position": "QB",
             "first_name": "Andrew",
-            "last_name": "Luck"
+            "last_name": "Luck",
+            "elo": 750.0
         },
         "model": "rank.player",
         "pk": 3
