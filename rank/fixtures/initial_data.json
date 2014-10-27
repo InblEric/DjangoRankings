@@ -1,32 +1,7011 @@
 [
-    {
-        "fields": {
-            "position": "QB",
-            "first_name": "Peyton",
-            "last_name": "Manning",
-            "elo": 750.0
-        },
-        "model": "rank.player",
-        "pk": 1
-    },
-    {
-        "fields": {
-            "position": "QB",
-            "first_name": "Aaron",
-            "last_name": "Rodgers",
-            "elo": 750.0
-        },
-        "model": "rank.player",
-        "pk": 2
-    },
-    {
-        "fields": {
-            "position": "QB",
-            "first_name": "Andrew",
-            "last_name": "Luck",
-            "elo": 750.0
-        },
-        "model": "rank.player",
-        "pk": 3
-    }
+
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Derek",
+
+			"last_name": "Anderson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 1
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Blake",
+
+			"last_name": "Bortles",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 2
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Tom",
+
+			"last_name": "Brady",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 3
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Drew",
+
+			"last_name": "Brees",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 4
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Teddy",
+
+			"last_name": "Bridgewater",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 5
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Jason",
+
+			"last_name": "Campbell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 6
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Derek",
+
+			"last_name": "Carr",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 7
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Jimmy",
+
+			"last_name": "Clausen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 8
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Kirk",
+
+			"last_name": "Cousins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 9
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Jay",
+
+			"last_name": "Cutler",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 10
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Andy",
+
+			"last_name": "Dalton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 11
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Austin",
+
+			"last_name": "Davis",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 12
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Ryan",
+
+			"last_name": "Fitzpatrick",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 13
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Joe",
+
+			"last_name": "Flacco",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 14
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Matt",
+
+			"last_name": "Flynn",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 15
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Nick",
+
+			"last_name": "Foles",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 16
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Blaine",
+
+			"last_name": "Gabbert",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 17
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Jimmy",
+
+			"last_name": "Garoppolo",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 18
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Mike",
+
+			"last_name": "Glennon",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 19
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Robert",
+
+			"last_name": "Griffin III",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 20
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Matt",
+
+			"last_name": "Hasselbeck",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 21
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Chad",
+
+			"last_name": "Henne",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 22
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Shaun",
+
+			"last_name": "Hill",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 23
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Brian",
+
+			"last_name": "Hoyer",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 24
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Colin",
+
+			"last_name": "Kaepernick",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 25
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Jake",
+
+			"last_name": "Locker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 26
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Andrew",
+
+			"last_name": "Luck",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 27
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Eli",
+
+			"last_name": "Manning",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 28
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Peyton",
+
+			"last_name": "Manning",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 29
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "EJ",
+
+			"last_name": "Manuel",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 30
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Johnny",
+
+			"last_name": "Manziel",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 31
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Josh",
+
+			"last_name": "McCown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 32
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Colt",
+
+			"last_name": "McCoy",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 33
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Matt",
+
+			"last_name": "McGloin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 34
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Zach",
+
+			"last_name": "Mettenberger",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 35
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Ryan",
+
+			"last_name": "Nassib",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 36
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Cam",
+
+			"last_name": "Newton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 37
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Kyle",
+
+			"last_name": "Orton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 38
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Brock",
+
+			"last_name": "Osweiler",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 39
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Carson",
+
+			"last_name": "Palmer",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 40
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Christian",
+
+			"last_name": "Ponder",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 41
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Philip",
+
+			"last_name": "Rivers",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 42
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Aaron",
+
+			"last_name": "Rodgers",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 43
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Ben",
+
+			"last_name": "Roethlisberger",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 44
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Tony",
+
+			"last_name": "Romo",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 45
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Matt",
+
+			"last_name": "Ryan",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 46
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Alex",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 47
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Geno",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 48
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Matthew",
+
+			"last_name": "Stafford",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 49
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Drew",
+
+			"last_name": "Stanton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 50
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Ryan",
+
+			"last_name": "Tannehill",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 51
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Logan",
+
+			"last_name": "Thomas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 52
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Michael",
+
+			"last_name": "Vick",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 53
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Charlie",
+
+			"last_name": "Whitehurst",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 54
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "Russell",
+
+			"last_name": "Wilson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 55
+
+	},
+	{
+
+		"fields": {
+			"position": "QB",
+
+			"first_name": "T.J.",
+
+			"last_name": "Yates",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 56
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "C.J.",
+
+			"last_name": "Anderson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 57
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Dri",
+
+			"last_name": "Archer",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 58
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Matt",
+
+			"last_name": "Asiata",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 59
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Montee",
+
+			"last_name": "Ball",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 60
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jackie",
+
+			"last_name": "Battle",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 61
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Joique",
+
+			"last_name": "Bell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 62
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Le'Veon",
+
+			"last_name": "Bell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 63
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Giovani",
+
+			"last_name": "Bernard",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 64
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "LeGarrette",
+
+			"last_name": "Blount",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 65
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Alfred",
+
+			"last_name": "Blue",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 66
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Brandon",
+
+			"last_name": "Bolden",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 67
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Ahmad",
+
+			"last_name": "Bradshaw",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 68
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Bryce",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 69
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Donald",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 70
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Ronnie",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 71
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Reggie",
+
+			"last_name": "Bush",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 72
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Travaris",
+
+			"last_name": "Cadet",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 73
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Ka'Deem",
+
+			"last_name": "Carey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 74
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jamaal",
+
+			"last_name": "Charles",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 75
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jed",
+
+			"last_name": "Collins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 76
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Isaiah",
+
+			"last_name": "Crowell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 77
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Benny",
+
+			"last_name": "Cunningham",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 78
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Knile",
+
+			"last_name": "Davis",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 79
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "James",
+
+			"last_name": "Develin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 80
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Anthony",
+
+			"last_name": "Dixon",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 81
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Shaun",
+
+			"last_name": "Draughn",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 82
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Lance",
+
+			"last_name": "Dunbar",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 83
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Andre",
+
+			"last_name": "Ellington",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 84
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jerome",
+
+			"last_name": "Felton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 85
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Justin",
+
+			"last_name": "Forsett",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 86
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Matt",
+
+			"last_name": "Forte",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 87
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Arian",
+
+			"last_name": "Foster",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 88
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Devonta",
+
+			"last_name": "Freeman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 89
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Toby",
+
+			"last_name": "Gerhart",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 90
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Frank",
+
+			"last_name": "Gore",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 91
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Cyrus",
+
+			"last_name": "Gray",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 92
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jonas",
+
+			"last_name": "Gray",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 93
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Shonn",
+
+			"last_name": "Greene",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 94
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jonathan",
+
+			"last_name": "Grimes",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 95
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "DuJuan",
+
+			"last_name": "Harris",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 96
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Roy",
+
+			"last_name": "Helu",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 97
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Dan",
+
+			"last_name": "Herron",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 98
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jeremy",
+
+			"last_name": "Hill",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 99
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Peyton",
+
+			"last_name": "Hillis",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 100
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Ronnie",
+
+			"last_name": "Hillman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 101
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Robert",
+
+			"last_name": "Hughes",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 102
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Carlos",
+
+			"last_name": "Hyde",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 103
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Henry",
+
+			"last_name": "Hynoski",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 104
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Mark",
+
+			"last_name": "Ingram",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 105
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Chris",
+
+			"last_name": "Ivory",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 106
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Fred",
+
+			"last_name": "Jackson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 107
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Steven",
+
+			"last_name": "Jackson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 108
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Mike",
+
+			"last_name": "James",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 109
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Rashad",
+
+			"last_name": "Jennings",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 110
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Austin",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 111
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Chris",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 112
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Storm",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 113
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Will",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 114
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Maurice",
+
+			"last_name": "Jones-Drew",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 115
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "John",
+
+			"last_name": "Kuhn",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 116
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Eddie",
+
+			"last_name": "Lacy",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 117
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Marshawn",
+
+			"last_name": "Lynch",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 118
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Doug",
+
+			"last_name": "Martin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 119
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Tre",
+
+			"last_name": "Mason",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 120
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Ryan",
+
+			"last_name": "Mathews",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 121
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Dexter",
+
+			"last_name": "McCluster",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 122
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "LeSean",
+
+			"last_name": "McCoy",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 123
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Darren",
+
+			"last_name": "McFadden",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 124
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jerick",
+
+			"last_name": "McKinnon",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 125
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Christine",
+
+			"last_name": "Michael",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 126
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Bruce",
+
+			"last_name": "Miller",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 127
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Lamar",
+
+			"last_name": "Miller",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 128
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Alfred",
+
+			"last_name": "Morris",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 129
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "DeMarco",
+
+			"last_name": "Murray",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 130
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Latavius",
+
+			"last_name": "Murray",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 131
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Chris",
+
+			"last_name": "Ogbonnaya",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 132
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jamize",
+
+			"last_name": "Olawale",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 133
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Branden",
+
+			"last_name": "Oliver",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 134
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Cedric",
+
+			"last_name": "Peerman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 135
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Bernard",
+
+			"last_name": "Pierce",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 136
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Bilal",
+
+			"last_name": "Powell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 137
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Bobby",
+
+			"last_name": "Rainey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 138
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Joseph",
+
+			"last_name": "Randle",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 139
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Darrin",
+
+			"last_name": "Reaves",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 140
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Silas",
+
+			"last_name": "Redd",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 141
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Marcel",
+
+			"last_name": "Reece",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 142
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Trent",
+
+			"last_name": "Richardson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 143
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Theo",
+
+			"last_name": "Riddick",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 144
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Denard",
+
+			"last_name": "Robinson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 145
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Khiry",
+
+			"last_name": "Robinson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 146
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jacquizz",
+
+			"last_name": "Rodgers",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 147
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Bishop",
+
+			"last_name": "Sankey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 148
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Anthony",
+
+			"last_name": "Sherman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 149
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Antone",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 150
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Darren",
+
+			"last_name": "Sproles",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 151
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Zac",
+
+			"last_name": "Stacy",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 152
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "James",
+
+			"last_name": "Starks",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 153
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jonathan",
+
+			"last_name": "Stewart",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 154
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Frank",
+
+			"last_name": "Summers",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 155
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Lorenzo",
+
+			"last_name": "Taliaferro",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 156
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Ben",
+
+			"last_name": "Tate",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 157
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Stepfan",
+
+			"last_name": "Taylor",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 158
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Pierre",
+
+			"last_name": "Thomas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 159
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Daniel",
+
+			"last_name": "Thomas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 160
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "De'Anthony",
+
+			"last_name": "Thomas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 161
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Juwan",
+
+			"last_name": "Thompson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 162
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Jordan",
+
+			"last_name": "Todman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 163
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Robert",
+
+			"last_name": "Turbin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 164
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Shane",
+
+			"last_name": "Vereen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 165
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Leon",
+
+			"last_name": "Washington",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 166
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Trey",
+
+			"last_name": "Watts",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 167
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Terrance",
+
+			"last_name": "West",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 168
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "James",
+
+			"last_name": "White",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 169
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Fozzy",
+
+			"last_name": "Whittaker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 170
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Andre",
+
+			"last_name": "Williams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 171
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Damien",
+
+			"last_name": "Williams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 172
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "DeAngelo",
+
+			"last_name": "Williams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 173
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "George",
+
+			"last_name": "Winn",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 174
+
+	},
+	{
+
+		"fields": {
+			"position": "RB",
+
+			"first_name": "Darrel",
+
+			"last_name": "Young",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 175
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Davante",
+
+			"last_name": "Adams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 176
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kamar",
+
+			"last_name": "Aiken",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 177
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Seyi",
+
+			"last_name": "Ajirotutu",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 178
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Keenan",
+
+			"last_name": "Allen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 179
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Danny",
+
+			"last_name": "Amendola",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 180
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Miles",
+
+			"last_name": "Austin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 181
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Tavon",
+
+			"last_name": "Austin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 182
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jason",
+
+			"last_name": "Avant",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 183
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Donnie",
+
+			"last_name": "Avery",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 184
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Stedman",
+
+			"last_name": "Bailey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 185
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Doug",
+
+			"last_name": "Baldwin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 186
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Cole",
+
+			"last_name": "Beasley",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 187
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Odell",
+
+			"last_name": "Beckham",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 188
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kelvin",
+
+			"last_name": "Benjamin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 189
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Travis",
+
+			"last_name": "Benjamin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 190
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brenton",
+
+			"last_name": "Bersin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 191
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Anquan",
+
+			"last_name": "Boldin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 192
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Dwayne",
+
+			"last_name": "Bowe",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 193
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jarrett",
+
+			"last_name": "Boykin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 194
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kenny",
+
+			"last_name": "Britt",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 195
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Antonio",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 196
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Philly",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 197
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jaron",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 198
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "John",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 199
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Justin",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 200
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Marlon",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 201
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Mike",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 202
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Vincent",
+
+			"last_name": "Brown",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 203
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Ryan",
+
+			"last_name": "Broyles",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 204
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Dez",
+
+			"last_name": "Bryant",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 205
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Martavis",
+
+			"last_name": "Bryant",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 206
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Isaiah",
+
+			"last_name": "Burse",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 207
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brice",
+
+			"last_name": "Butler",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 208
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Andre",
+
+			"last_name": "Caldwell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 209
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Michael",
+
+			"last_name": "Campanaro",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 210
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Randall",
+
+			"last_name": "Cobb",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 211
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Marques",
+
+			"last_name": "Colston",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 212
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brandin",
+
+			"last_name": "Cooks",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 213
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Riley",
+
+			"last_name": "Cooper",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 214
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jerricho",
+
+			"last_name": "Cotchery",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 215
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Michael",
+
+			"last_name": "Crabtree",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 216
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Eric",
+
+			"last_name": "Decker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 217
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Aaron",
+
+			"last_name": "Dobson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 218
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kevin",
+
+			"last_name": "Dorsey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 219
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Harry",
+
+			"last_name": "Douglas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 220
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Julian",
+
+			"last_name": "Edelman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 221
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Bruce",
+
+			"last_name": "Ellington",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 222
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Mike",
+
+			"last_name": "Evans",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 223
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Larry",
+
+			"last_name": "Fitzgerald",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 224
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Malcom",
+
+			"last_name": "Floyd",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 225
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Michael",
+
+			"last_name": "Floyd",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 226
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Corey",
+
+			"last_name": "Fuller",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 227
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Taylor",
+
+			"last_name": "Gabriel",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 228
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Pierre",
+
+			"last_name": "Garcon",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 229
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brandon",
+
+			"last_name": "Gibson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 230
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Ted",
+
+			"last_name": "Ginn",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 231
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Chris",
+
+			"last_name": "Givens",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 232
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Marquise",
+
+			"last_name": "Goodwin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 233
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "T.J.",
+
+			"last_name": "Graham",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 234
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Ryan",
+
+			"last_name": "Grant",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 235
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "A.J.",
+
+			"last_name": "Green",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 236
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Derek",
+
+			"last_name": "Hagan",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 237
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Frankie",
+
+			"last_name": "Hammond",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 238
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Dwayne",
+
+			"last_name": "Harris",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 239
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brian",
+
+			"last_name": "Hartline",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 240
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Percy",
+
+			"last_name": "Harvin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 241
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Andrew",
+
+			"last_name": "Hawkins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 242
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Junior",
+
+			"last_name": "Hemingway",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 243
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Robert",
+
+			"last_name": "Herron",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 244
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Devin",
+
+			"last_name": "Hester",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 245
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Darrius",
+
+			"last_name": "Heyward-Bey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 246
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "T.Y.",
+
+			"last_name": "Hilton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 247
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Chris",
+
+			"last_name": "Hogan",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 248
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Andre",
+
+			"last_name": "Holmes",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 249
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Santonio",
+
+			"last_name": "Holmes",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 250
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "DeAndre",
+
+			"last_name": "Hopkins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 251
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Josh",
+
+			"last_name": "Huff",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 252
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Justin",
+
+			"last_name": "Hunter",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 253
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Allen",
+
+			"last_name": "Hurns",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 254
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "DeSean",
+
+			"last_name": "Jackson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 255
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Vincent",
+
+			"last_name": "Jackson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 256
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jeff",
+
+			"last_name": "Janis",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 257
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Alshon",
+
+			"last_name": "Jeffery",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 258
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "A.J.",
+
+			"last_name": "Jenkins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 259
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Greg",
+
+			"last_name": "Jennings",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 260
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Andre",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 261
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Calvin",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 262
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Charles",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 263
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Damaris",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 264
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Steve",
+
+			"last_name": "Johnson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 265
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jacoby",
+
+			"last_name": "Jones",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 266
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "James",
+
+			"last_name": "Jones",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 267
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Julio",
+
+			"last_name": "Jones",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 268
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jermaine",
+
+			"last_name": "Kearse",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 269
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jeremy",
+
+			"last_name": "Kerley",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 270
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brandon",
+
+			"last_name": "LaFell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 271
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jarvis",
+
+			"last_name": "Landry",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 272
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Marqise",
+
+			"last_name": "Lee",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 273
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Greg",
+
+			"last_name": "Little",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 274
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brandon",
+
+			"last_name": "Lloyd",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 275
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Ricardo",
+
+			"last_name": "Lockette",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 276
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jeremy",
+
+			"last_name": "Maclin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 277
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jeff",
+
+			"last_name": "Maehl",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 278
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brandon",
+
+			"last_name": "Marshall",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 279
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Keshawn",
+
+			"last_name": "Martin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 280
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Freddie",
+
+			"last_name": "Martino",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 281
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jordan",
+
+			"last_name": "Matthews",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 282
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Rishard",
+
+			"last_name": "Matthews",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 283
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Robert",
+
+			"last_name": "Meachem",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 284
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Donte",
+
+			"last_name": "Moncrief",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 285
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Denarius",
+
+			"last_name": "Moore",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 286
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Lance",
+
+			"last_name": "Moore",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 287
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Joe",
+
+			"last_name": "Morgan",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 288
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Josh",
+
+			"last_name": "Morgan",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 289
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Louis",
+
+			"last_name": "Murphy",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 290
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jordy",
+
+			"last_name": "Nelson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 291
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Hakeem",
+
+			"last_name": "Nicks",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 292
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kevin",
+
+			"last_name": "Norwood",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 293
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kevin",
+
+			"last_name": "Ogletree",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 294
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kassim",
+
+			"last_name": "Osgood",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 295
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Chris",
+
+			"last_name": "Owusu",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 296
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Preston",
+
+			"last_name": "Parker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 297
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Cordarrelle",
+
+			"last_name": "Patterson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 298
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brian",
+
+			"last_name": "Quick",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 299
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Rueben",
+
+			"last_name": "Randle",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 300
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Paul",
+
+			"last_name": "Richardson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 301
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Andre",
+
+			"last_name": "Roberts",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 302
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Aldrick",
+
+			"last_name": "Robinson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 303
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Allen",
+
+			"last_name": "Robinson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 304
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jeremy",
+
+			"last_name": "Ross",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 305
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Eddie",
+
+			"last_name": "Royal",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 306
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Greg",
+
+			"last_name": "Salas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 307
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Emmanuel",
+
+			"last_name": "Sanders",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 308
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Ace",
+
+			"last_name": "Sanders",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 309
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Mohamed",
+
+			"last_name": "Sanu",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 310
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Dane",
+
+			"last_name": "Sanzenbacher",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 311
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Russell",
+
+			"last_name": "Shepard",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 312
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Cecil",
+
+			"last_name": "Shorts",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 313
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brad",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 314
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Torrey",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 315
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Rodney",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 316
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Steve",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 317
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kenny",
+
+			"last_name": "Stills",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 318
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Devin",
+
+			"last_name": "Street",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 319
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brandon",
+
+			"last_name": "Tate",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 320
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Golden",
+
+			"last_name": "Tate",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 321
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Adam",
+
+			"last_name": "Thielen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 322
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Demaryius",
+
+			"last_name": "Thomas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 323
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kenbrell",
+
+			"last_name": "Thompkins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 324
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Brian",
+
+			"last_name": "Tyms",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 325
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Mike",
+
+			"last_name": "Wallace",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 326
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Bryan",
+
+			"last_name": "Walters",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 327
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Corey",
+
+			"last_name": "Washington",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 328
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Nate",
+
+			"last_name": "Washington",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 329
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Sammy",
+
+			"last_name": "Watkins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 330
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Reggie",
+
+			"last_name": "Wayne",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 331
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Eric",
+
+			"last_name": "Weems",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 332
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Wes",
+
+			"last_name": "Welker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 333
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Markus",
+
+			"last_name": "Wheaton",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 334
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Roddy",
+
+			"last_name": "White",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 335
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Mike",
+
+			"last_name": "Williams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 336
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Terrance",
+
+			"last_name": "Williams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 337
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Albert",
+
+			"last_name": "Wilson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 338
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Robert",
+
+			"last_name": "Woods",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 339
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "James",
+
+			"last_name": "Wright",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 340
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Jarius",
+
+			"last_name": "Wright",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 341
+
+	},
+	{
+
+		"fields": {
+			"position": "WR",
+
+			"first_name": "Kendall",
+
+			"last_name": "Wright",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 342
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Dwayne",
+
+			"last_name": "Allen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 343
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jace",
+
+			"last_name": "Amaro",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 344
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "David",
+
+			"last_name": "Ausberry",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 345
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Gary",
+
+			"last_name": "Barnidge",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 346
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Martellus",
+
+			"last_name": "Bennett",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 347
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brandon",
+
+			"last_name": "Bostick",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 348
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brett",
+
+			"last_name": "Brackett",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 349
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Kevin",
+
+			"last_name": "Brock",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 350
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jordan",
+
+			"last_name": "Cameron",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 351
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "John",
+
+			"last_name": "Carlson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 352
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Derek",
+
+			"last_name": "Carrier",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 353
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "James",
+
+			"last_name": "Casey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 354
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brent",
+
+			"last_name": "Celek",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 355
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Scott",
+
+			"last_name": "Chandler",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 356
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Charles",
+
+			"last_name": "Clay",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 357
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Chase",
+
+			"last_name": "Coffman",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 358
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jared",
+
+			"last_name": "Cook",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 359
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jeff",
+
+			"last_name": "Cumberland",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 360
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Owen",
+
+			"last_name": "Daniels",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 361
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Kellen",
+
+			"last_name": "Davis",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 362
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Vernon",
+
+			"last_name": "Davis",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 363
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Ed",
+
+			"last_name": "Dickson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 364
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Larry",
+
+			"last_name": "Donnell",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 365
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jack",
+
+			"last_name": "Doyle",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 366
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jim",
+
+			"last_name": "Dray",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 367
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Eric",
+
+			"last_name": "Ebron",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 368
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Rhett",
+
+			"last_name": "Ellison",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 369
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Zach",
+
+			"last_name": "Ertz",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 370
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Gavin",
+
+			"last_name": "Escobar",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 371
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Anthony",
+
+			"last_name": "Fasano",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 372
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Joseph",
+
+			"last_name": "Fauria",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 373
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Daniel",
+
+			"last_name": "Fells",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 374
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Darren",
+
+			"last_name": "Fells",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 375
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "C.J.",
+
+			"last_name": "Fiedorowicz",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 376
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Coby",
+
+			"last_name": "Fleener",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 377
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Chase",
+
+			"last_name": "Ford",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 378
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Antonio",
+
+			"last_name": "Gates",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 379
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Crockett",
+
+			"last_name": "Gillmore",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 380
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Chris",
+
+			"last_name": "Gragg",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 381
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Garrett",
+
+			"last_name": "Graham",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 382
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jimmy",
+
+			"last_name": "Graham",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 383
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "MarQueis",
+
+			"last_name": "Gray",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 384
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Ladarius",
+
+			"last_name": "Green",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 385
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Virgil",
+
+			"last_name": "Green",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 386
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jermaine",
+
+			"last_name": "Gresham",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 387
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Ryan",
+
+			"last_name": "Griffin",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 388
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Rob",
+
+			"last_name": "Gronkowski",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 389
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "James",
+
+			"last_name": "Hanna",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 390
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Clay",
+
+			"last_name": "Harbor",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 391
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Cory",
+
+			"last_name": "Harkey",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 392
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Demetrius",
+
+			"last_name": "Harris",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 393
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Cooper",
+
+			"last_name": "Helfet",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 394
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Ryan",
+
+			"last_name": "Hewitt",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 395
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Josh",
+
+			"last_name": "Hill",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 396
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Michael",
+
+			"last_name": "Hoomanawanui",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 397
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Gator",
+
+			"last_name": "Hoskins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 398
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Rob",
+
+			"last_name": "Housler",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 399
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Nic",
+
+			"last_name": "Jacobs",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 400
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Travis",
+
+			"last_name": "Kelce",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 401
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Lance",
+
+			"last_name": "Kendricks",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 402
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brian",
+
+			"last_name": "Leonhardt",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 403
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Vance",
+
+			"last_name": "McDonald",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 404
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Heath",
+
+			"last_name": "Miller",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 405
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Zach",
+
+			"last_name": "Miller",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 406
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brandon",
+
+			"last_name": "Myers",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 407
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Troy",
+
+			"last_name": "Niklas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 408
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Greg",
+
+			"last_name": "Olsen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 409
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Michael",
+
+			"last_name": "Palmer",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 410
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Bear",
+
+			"last_name": "Pascoe",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 411
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Niles",
+
+			"last_name": "Paul",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 412
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Logan",
+
+			"last_name": "Paulsen",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 413
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brandon",
+
+			"last_name": "Pettigrew",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 414
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "John",
+
+			"last_name": "Phillips",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 415
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Andrew",
+
+			"last_name": "Quarless",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 416
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jordan",
+
+			"last_name": "Reed",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 417
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Mychal",
+
+			"last_name": "Rivera",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 418
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Adrien",
+
+			"last_name": "Robinson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 419
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Richard",
+
+			"last_name": "Rodgers",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 420
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Dante",
+
+			"last_name": "Rosario",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 421
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Kyle",
+
+			"last_name": "Rudolph",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 422
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Austin",
+
+			"last_name": "Seferian-Jenkins",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 423
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Dion",
+
+			"last_name": "Sims",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 424
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Lee",
+
+			"last_name": "Smith",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 425
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Luke",
+
+			"last_name": "Stocker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 426
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Zach",
+
+			"last_name": "Sudfeld",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 427
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jacob",
+
+			"last_name": "Tamme",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 428
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Julius",
+
+			"last_name": "Thomas",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 429
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jordan",
+
+			"last_name": "Thompson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 430
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Taylor",
+
+			"last_name": "Thompson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 431
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Levine",
+
+			"last_name": "Toilolo",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 432
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Delanie",
+
+			"last_name": "Walker",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 433
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Benjamin",
+
+			"last_name": "Watson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 434
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Brandon",
+
+			"last_name": "Williams",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 435
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Luke",
+
+			"last_name": "Willson",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 436
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Jason",
+
+			"last_name": "Witten",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 437
+
+	},
+	{
+
+		"fields": {
+			"position": "TE",
+
+			"first_name": "Timothy",
+
+			"last_name": "Wright",
+
+			"elo": 750.0
+
+		},
+		"model": "rank.player",
+		"pk": 438
+
+	}
 ]

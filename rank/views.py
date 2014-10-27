@@ -6,13 +6,14 @@ from django.template import RequestContext, loader
 from django.http import HttpResponse
 from rank.models import Player,Matchup
 
+
 def index(request):
-    plist = []
+    """plist = []
     for i in Player.objects.all():
         plist.append(i)
     mlist = []
     for i in Matchup.objects.all(): #if i.week == CURWEEK do something for when this is real
-        mlist.append(i)
+        mlist.append(i)"""
     
     template = loader.get_template('rank/index.html')
     context = RequestContext(request, {

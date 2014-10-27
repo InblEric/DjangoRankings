@@ -9,6 +9,7 @@ class Player(models.Model):
         return self.first_name + " " + self.last_name + ", " + self.position
 
 class Matchup(models.Model):
+    num = models.IntegerField(primary_key=True)
     created_at = models.DateTimeField(default=None)
     player1 = models.ForeignKey(Player, related_name='player_1')
     player2 = models.ForeignKey(Player, related_name='player_2')

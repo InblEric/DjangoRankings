@@ -10,6 +10,10 @@
 		<p>
 			<button onclick="myFunction()">Start Voting!</button>
 		</p>
+		
+		<p>
+			<button onclick="home()">Home Page</button>
+		</p>
 
 
 		<!--make this pick a random matchup and doesn't repeat!!-->
@@ -19,7 +23,13 @@
 			}
 		</script>
 		
+		<script>
+			function home() {
+				window.location = "/"
+			}
+		</script>
 		
+		<!--
 		<p> Matchups:
 		{% if mlist %}
 		<ul>
@@ -31,6 +41,7 @@
 		{% else %}
 		<p>No matchups are available.</p>
 		{% endif %}
+		-->
 	</p>
 		
 		
