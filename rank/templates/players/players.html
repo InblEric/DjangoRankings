@@ -14,7 +14,7 @@
 	{% if qbs %}
 		<ul>
 		{% for player in qbs %}
-			<li><p>{{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
 			<p>elo: {{ player.elo }}</p></li>
 		{% endfor %}
 		</ul>
@@ -29,7 +29,7 @@
 	{% if rbs %}
 		<ul>
 		{% for player in rbs %}
-			<li><p>{{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
 			<p>elo: {{ player.elo }}</p></li>
 		{% endfor %}
 		</ul>
@@ -44,7 +44,7 @@
 	{% if wrs %}
 		<ul>
 		{% for player in wrs %}
-			<li><p>{{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
 			<p>elo: {{ player.elo }}</p></li>
 		{% endfor %}
 		</ul>
@@ -59,7 +59,7 @@
 	{% if tes %}
 		<ul>
 		{% for player in tes %}
-			<li><p>{{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
 			<p>elo: {{ player.elo }}</p></li>
 		{% endfor %}
 		</ul>
@@ -74,7 +74,7 @@
 	{% if flex %}
 		<ul>
 		{% for player in flex %}
-			<li><p>{{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
 			<p>elo: {{ player.elo }}</p></li>
 		{% endfor %}
 		</ul>
