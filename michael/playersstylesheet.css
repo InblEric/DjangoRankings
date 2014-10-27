@@ -4,6 +4,7 @@
 
 #parent{
 	text-align: center;
+	position: absolute;
 }
 
 .position{
@@ -14,17 +15,22 @@
 }
 
 #QB{
-	
+	vertical-align: text-top;
+
 }
 #RB{
+	vertical-align: text-top;
 
 }
 #WR{
+	vertical-align: text-top;
 
 }
 #TE{
+	vertical-align: text-top;
 
 }
 #FLEX{
+	vertical-align: text-top;
     
 }
