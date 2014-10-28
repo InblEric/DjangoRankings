@@ -1,21 +1,4 @@
-[
-
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Derek",
-
-			"last_name": "Anderson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 1
-
-	},
+[	
 	{
 
 		"fields": {
@@ -25,12 +8,11 @@
 
 			"last_name": "Bortles",
 
-			"elo": 750.0
+			"elo": 798.0
 
 		},
 		"model": "rank.player",
-		"pk": 2
-
+		"pk": 1
 	},
 	{
 
@@ -41,12 +23,11 @@
 
 			"last_name": "Brady",
 
-			"elo": 750.0
+			"elo": 832.0
 
 		},
 		"model": "rank.player",
-		"pk": 3
-
+		"pk": 2
 	},
 	{
 
@@ -57,12 +38,11 @@
 
 			"last_name": "Brees",
 
-			"elo": 750.0
+			"elo": 844.0
 
 		},
 		"model": "rank.player",
-		"pk": 4
-
+		"pk": 3
 	},
 	{
 
@@ -73,28 +53,11 @@
 
 			"last_name": "Bridgewater",
 
-			"elo": 750.0
+			"elo": 794.0
 
 		},
 		"model": "rank.player",
-		"pk": 5
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Jason",
-
-			"last_name": "Campbell",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 6
-
+		"pk": 4
 	},
 	{
 
@@ -105,44 +68,11 @@
 
 			"last_name": "Carr",
 
-			"elo": 750.0
+			"elo": 792.0
 
 		},
 		"model": "rank.player",
-		"pk": 7
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Jimmy",
-
-			"last_name": "Clausen",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 8
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Kirk",
-
-			"last_name": "Cousins",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 9
-
+		"pk": 5
 	},
 	{
 
@@ -153,12 +83,11 @@
 
 			"last_name": "Cutler",
 
-			"elo": 750.0
+			"elo": 834.0
 
 		},
 		"model": "rank.player",
-		"pk": 10
-
+		"pk": 6
 	},
 	{
 
@@ -169,12 +98,11 @@
 
 			"last_name": "Dalton",
 
-			"elo": 750.0
+			"elo": 816.0
 
 		},
 		"model": "rank.player",
-		"pk": 11
-
+		"pk": 7
 	},
 	{
 
@@ -185,12 +113,11 @@
 
 			"last_name": "Davis",
 
-			"elo": 750.0
+			"elo": 810.0
 
 		},
 		"model": "rank.player",
-		"pk": 12
-
+		"pk": 8
 	},
 	{
 
@@ -201,12 +128,11 @@
 
 			"last_name": "Fitzpatrick",
 
-			"elo": 750.0
+			"elo": 788.0
 
 		},
 		"model": "rank.player",
-		"pk": 13
-
+		"pk": 9
 	},
 	{
 
@@ -217,28 +143,11 @@
 
 			"last_name": "Flacco",
 
-			"elo": 750.0
+			"elo": 812.0
 
 		},
 		"model": "rank.player",
-		"pk": 14
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Matt",
-
-			"last_name": "Flynn",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 15
-
+		"pk": 10
 	},
 	{
 
@@ -249,44 +158,11 @@
 
 			"last_name": "Foles",
 
-			"elo": 750.0
+			"elo": 836.0
 
 		},
 		"model": "rank.player",
-		"pk": 16
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Blaine",
-
-			"last_name": "Gabbert",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 17
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Jimmy",
-
-			"last_name": "Garoppolo",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 18
-
+		"pk": 11
 	},
 	{
 
@@ -297,12 +173,11 @@
 
 			"last_name": "Glennon",
 
-			"elo": 750.0
+			"elo": 800.0
 
 		},
 		"model": "rank.player",
-		"pk": 19
-
+		"pk": 12
 	},
 	{
 
@@ -313,60 +188,11 @@
 
 			"last_name": "Griffin III",
 
-			"elo": 750.0
+			"elo": 802.0
 
 		},
 		"model": "rank.player",
-		"pk": 20
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Matt",
-
-			"last_name": "Hasselbeck",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 21
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Chad",
-
-			"last_name": "Henne",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 22
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Shaun",
-
-			"last_name": "Hill",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 23
-
+		"pk": 13
 	},
 	{
 
@@ -377,12 +203,11 @@
 
 			"last_name": "Hoyer",
 
-			"elo": 750.0
+			"elo": 796.0
 
 		},
 		"model": "rank.player",
-		"pk": 24
-
+		"pk": 14
 	},
 	{
 
@@ -393,12 +218,11 @@
 
 			"last_name": "Kaepernick",
 
-			"elo": 750.0
+			"elo": 826.0
 
 		},
 		"model": "rank.player",
-		"pk": 25
-
+		"pk": 15
 	},
 	{
 
@@ -409,12 +233,11 @@
 
 			"last_name": "Locker",
 
-			"elo": 750.0
+			"elo": 786.0
 
 		},
 		"model": "rank.player",
-		"pk": 26
-
+		"pk": 16
 	},
 	{
 
@@ -425,12 +248,11 @@
 
 			"last_name": "Luck",
 
-			"elo": 750.0
+			"elo": 848.0
 
 		},
 		"model": "rank.player",
-		"pk": 27
-
+		"pk": 17
 	},
 	{
 
@@ -441,12 +263,11 @@
 
 			"last_name": "Manning",
 
-			"elo": 750.0
+			"elo": 818.0
 
 		},
 		"model": "rank.player",
-		"pk": 28
-
+		"pk": 18
 	},
 	{
 
@@ -457,60 +278,11 @@
 
 			"last_name": "Manning",
 
-			"elo": 750.0
+			"elo": 850.0
 
 		},
 		"model": "rank.player",
-		"pk": 29
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "EJ",
-
-			"last_name": "Manuel",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 30
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Johnny",
-
-			"last_name": "Manziel",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 31
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Josh",
-
-			"last_name": "McCown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 32
-
+		"pk": 19
 	},
 	{
 
@@ -521,28 +293,11 @@
 
 			"last_name": "McCoy",
 
-			"elo": 750.0
+			"elo": 782.0
 
 		},
 		"model": "rank.player",
-		"pk": 33
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Matt",
-
-			"last_name": "McGloin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 34
-
+		"pk": 20
 	},
 	{
 
@@ -553,28 +308,11 @@
 
 			"last_name": "Mettenberger",
 
-			"elo": 750.0
+			"elo": 780.0
 
 		},
 		"model": "rank.player",
-		"pk": 35
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Ryan",
-
-			"last_name": "Nassib",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 36
-
+		"pk": 21
 	},
 	{
 
@@ -585,12 +323,11 @@
 
 			"last_name": "Newton",
 
-			"elo": 750.0
+			"elo": 830.0
 
 		},
 		"model": "rank.player",
-		"pk": 37
-
+		"pk": 22
 	},
 	{
 
@@ -601,28 +338,11 @@
 
 			"last_name": "Orton",
 
-			"elo": 750.0
+			"elo": 808.0
 
 		},
 		"model": "rank.player",
-		"pk": 38
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Brock",
-
-			"last_name": "Osweiler",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 39
-
+		"pk": 23
 	},
 	{
 
@@ -633,28 +353,11 @@
 
 			"last_name": "Palmer",
 
-			"elo": 750.0
+			"elo": 820.0
 
 		},
 		"model": "rank.player",
-		"pk": 40
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Christian",
-
-			"last_name": "Ponder",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 41
-
+		"pk": 24
 	},
 	{
 
@@ -665,12 +368,11 @@
 
 			"last_name": "Rivers",
 
-			"elo": 750.0
+			"elo": 842.0
 
 		},
 		"model": "rank.player",
-		"pk": 42
-
+		"pk": 25
 	},
 	{
 
@@ -681,12 +383,11 @@
 
 			"last_name": "Rodgers",
 
-			"elo": 750.0
+			"elo": 846.0
 
 		},
 		"model": "rank.player",
-		"pk": 43
-
+		"pk": 26
 	},
 	{
 
@@ -697,12 +398,11 @@
 
 			"last_name": "Roethlisberger",
 
-			"elo": 750.0
+			"elo": 822.0
 
 		},
 		"model": "rank.player",
-		"pk": 44
-
+		"pk": 27
 	},
 	{
 
@@ -713,12 +413,11 @@
 
 			"last_name": "Romo",
 
-			"elo": 750.0
+			"elo": 824.0
 
 		},
 		"model": "rank.player",
-		"pk": 45
-
+		"pk": 28
 	},
 	{
 
@@ -729,12 +428,11 @@
 
 			"last_name": "Ryan",
 
-			"elo": 750.0
+			"elo": 828.0
 
 		},
 		"model": "rank.player",
-		"pk": 46
-
+		"pk": 29
 	},
 	{
 
@@ -745,12 +443,11 @@
 
 			"last_name": "Smith",
 
-			"elo": 750.0
+			"elo": 804.0
 
 		},
 		"model": "rank.player",
-		"pk": 47
-
+		"pk": 30
 	},
 	{
 
@@ -761,12 +458,11 @@
 
 			"last_name": "Smith",
 
-			"elo": 750.0
+			"elo": 784.0
 
 		},
 		"model": "rank.player",
-		"pk": 48
-
+		"pk": 31
 	},
 	{
 
@@ -777,28 +473,11 @@
 
 			"last_name": "Stafford",
 
-			"elo": 750.0
+			"elo": 838.0
 
 		},
 		"model": "rank.player",
-		"pk": 49
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Drew",
-
-			"last_name": "Stanton",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 50
-
+		"pk": 32
 	},
 	{
 
@@ -809,28 +488,11 @@
 
 			"last_name": "Tannehill",
 
-			"elo": 750.0
+			"elo": 814.0
 
 		},
 		"model": "rank.player",
-		"pk": 51
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "Logan",
-
-			"last_name": "Thomas",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 52
-
+		"pk": 33
 	},
 	{
 
@@ -841,12 +503,11 @@
 
 			"last_name": "Vick",
 
-			"elo": 750.0
+			"elo": 790.0
 
 		},
 		"model": "rank.player",
-		"pk": 53
-
+		"pk": 34
 	},
 	{
 
@@ -857,12 +518,11 @@
 
 			"last_name": "Whitehurst",
 
-			"elo": 750.0
+			"elo": 772.0
 
 		},
 		"model": "rank.player",
-		"pk": 54
-
+		"pk": 35
 	},
 	{
 
@@ -873,28 +533,11 @@
 
 			"last_name": "Wilson",
 
-			"elo": 750.0
+			"elo": 840.0
 
 		},
 		"model": "rank.player",
-		"pk": 55
-
-	},
-	{
-
-		"fields": {
-			"position": "QB",
-
-			"first_name": "T.J.",
-
-			"last_name": "Yates",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 56
-
+		"pk": 36
 	},
 	{
 
@@ -905,28 +548,11 @@
 
 			"last_name": "Anderson",
 
-			"elo": 750.0
+			"elo": 722.0
 
 		},
 		"model": "rank.player",
-		"pk": 57
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Dri",
-
-			"last_name": "Archer",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 58
-
+		"pk": 37
 	},
 	{
 
@@ -937,12 +563,11 @@
 
 			"last_name": "Asiata",
 
-			"elo": 750.0
+			"elo": 738.0
 
 		},
 		"model": "rank.player",
-		"pk": 59
-
+		"pk": 38
 	},
 	{
 
@@ -953,28 +578,11 @@
 
 			"last_name": "Ball",
 
-			"elo": 750.0
+			"elo": 778.0
 
 		},
 		"model": "rank.player",
-		"pk": 60
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Jackie",
-
-			"last_name": "Battle",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 61
-
+		"pk": 39
 	},
 	{
 
@@ -985,12 +593,11 @@
 
 			"last_name": "Bell",
 
-			"elo": 750.0
+			"elo": 812.0
 
 		},
 		"model": "rank.player",
-		"pk": 62
-
+		"pk": 40
 	},
 	{
 
@@ -1001,12 +608,11 @@
 
 			"last_name": "Bell",
 
-			"elo": 750.0
+			"elo": 844.0
 
 		},
 		"model": "rank.player",
-		"pk": 63
-
+		"pk": 41
 	},
 	{
 
@@ -1017,12 +623,11 @@
 
 			"last_name": "Bernard",
 
-			"elo": 750.0
+			"elo": 836.0
 
 		},
 		"model": "rank.player",
-		"pk": 64
-
+		"pk": 42
 	},
 	{
 
@@ -1033,12 +638,11 @@
 
 			"last_name": "Blount",
 
-			"elo": 750.0
+			"elo": 702.0
 
 		},
 		"model": "rank.player",
-		"pk": 65
-
+		"pk": 43
 	},
 	{
 
@@ -1049,12 +653,11 @@
 
 			"last_name": "Blue",
 
-			"elo": 750.0
+			"elo": 732.0
 
 		},
 		"model": "rank.player",
-		"pk": 66
-
+		"pk": 44
 	},
 	{
 
@@ -1065,12 +668,11 @@
 
 			"last_name": "Bolden",
 
-			"elo": 750.0
+			"elo": 706.0
 
 		},
 		"model": "rank.player",
-		"pk": 67
-
+		"pk": 45
 	},
 	{
 
@@ -1081,12 +683,11 @@
 
 			"last_name": "Bradshaw",
 
-			"elo": 750.0
+			"elo": 826.0
 
 		},
 		"model": "rank.player",
-		"pk": 68
-
+		"pk": 46
 	},
 	{
 
@@ -1097,12 +698,11 @@
 
 			"last_name": "Brown",
 
-			"elo": 750.0
+			"elo": 748.0
 
 		},
 		"model": "rank.player",
-		"pk": 69
-
+		"pk": 47
 	},
 	{
 
@@ -1113,28 +713,11 @@
 
 			"last_name": "Brown",
 
-			"elo": 750.0
+			"elo": 726.0
 
 		},
 		"model": "rank.player",
-		"pk": 70
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Ronnie",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 71
-
+		"pk": 48
 	},
 	{
 
@@ -1145,12 +728,11 @@
 
 			"last_name": "Bush",
 
-			"elo": 750.0
+			"elo": 804.0
 
 		},
 		"model": "rank.player",
-		"pk": 72
-
+		"pk": 49
 	},
 	{
 
@@ -1161,28 +743,11 @@
 
 			"last_name": "Cadet",
 
-			"elo": 750.0
+			"elo": 712.0
 
 		},
 		"model": "rank.player",
-		"pk": 73
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Ka'Deem",
-
-			"last_name": "Carey",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 74
-
+		"pk": 50
 	},
 	{
 
@@ -1193,28 +758,11 @@
 
 			"last_name": "Charles",
 
-			"elo": 750.0
+			"elo": 846.0
 
 		},
 		"model": "rank.player",
-		"pk": 75
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Jed",
-
-			"last_name": "Collins",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 76
-
+		"pk": 51
 	},
 	{
 
@@ -1225,12 +773,11 @@
 
 			"last_name": "Crowell",
 
-			"elo": 750.0
+			"elo": 770.0
 
 		},
 		"model": "rank.player",
-		"pk": 77
-
+		"pk": 52
 	},
 	{
 
@@ -1241,12 +788,11 @@
 
 			"last_name": "Cunningham",
 
-			"elo": 750.0
+			"elo": 728.0
 
 		},
 		"model": "rank.player",
-		"pk": 78
-
+		"pk": 53
 	},
 	{
 
@@ -1257,28 +803,11 @@
 
 			"last_name": "Davis",
 
-			"elo": 750.0
+			"elo": 762.0
 
 		},
 		"model": "rank.player",
-		"pk": 79
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "James",
-
-			"last_name": "Develin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 80
-
+		"pk": 54
 	},
 	{
 
@@ -1289,28 +818,11 @@
 
 			"last_name": "Dixon",
 
-			"elo": 750.0
+			"elo": 746.0
 
 		},
 		"model": "rank.player",
-		"pk": 81
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Shaun",
-
-			"last_name": "Draughn",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 82
-
+		"pk": 55
 	},
 	{
 
@@ -1321,12 +833,11 @@
 
 			"last_name": "Dunbar",
 
-			"elo": 750.0
+			"elo": 692.0
 
 		},
 		"model": "rank.player",
-		"pk": 83
-
+		"pk": 56
 	},
 	{
 
@@ -1337,28 +848,11 @@
 
 			"last_name": "Ellington",
 
-			"elo": 750.0
+			"elo": 832.0
 
 		},
 		"model": "rank.player",
-		"pk": 84
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Jerome",
-
-			"last_name": "Felton",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 85
-
+		"pk": 57
 	},
 	{
 
@@ -1369,12 +863,11 @@
 
 			"last_name": "Forsett",
 
-			"elo": 750.0
+			"elo": 822.0
 
 		},
 		"model": "rank.player",
-		"pk": 86
-
+		"pk": 58
 	},
 	{
 
@@ -1385,12 +878,11 @@
 
 			"last_name": "Forte",
 
-			"elo": 750.0
+			"elo": 850.0
 
 		},
 		"model": "rank.player",
-		"pk": 87
-
+		"pk": 59
 	},
 	{
 
@@ -1401,12 +893,11 @@
 
 			"last_name": "Foster",
 
-			"elo": 750.0
+			"elo": 840.0
 
 		},
 		"model": "rank.player",
-		"pk": 88
-
+		"pk": 60
 	},
 	{
 
@@ -1417,12 +908,11 @@
 
 			"last_name": "Freeman",
 
-			"elo": 750.0
+			"elo": 704.0
 
 		},
 		"model": "rank.player",
-		"pk": 89
-
+		"pk": 61
 	},
 	{
 
@@ -1433,12 +923,11 @@
 
 			"last_name": "Gerhart",
 
-			"elo": 750.0
+			"elo": 758.0
 
 		},
 		"model": "rank.player",
-		"pk": 90
-
+		"pk": 62
 	},
 	{
 
@@ -1449,28 +938,11 @@
 
 			"last_name": "Gore",
 
-			"elo": 750.0
+			"elo": 810.0
 
 		},
 		"model": "rank.player",
-		"pk": 91
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Cyrus",
-
-			"last_name": "Gray",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 92
-
+		"pk": 63
 	},
 	{
 
@@ -1481,12 +953,11 @@
 
 			"last_name": "Gray",
 
-			"elo": 750.0
+			"elo": 764.0
 
 		},
 		"model": "rank.player",
-		"pk": 93
-
+		"pk": 64
 	},
 	{
 
@@ -1497,44 +968,11 @@
 
 			"last_name": "Greene",
 
-			"elo": 750.0
+			"elo": 720.0
 
 		},
 		"model": "rank.player",
-		"pk": 94
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Jonathan",
-
-			"last_name": "Grimes",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 95
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "DuJuan",
-
-			"last_name": "Harris",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 96
-
+		"pk": 65
 	},
 	{
 
@@ -1545,28 +983,11 @@
 
 			"last_name": "Helu",
 
-			"elo": 750.0
+			"elo": 700.0
 
 		},
 		"model": "rank.player",
-		"pk": 97
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Dan",
-
-			"last_name": "Herron",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 98
-
+		"pk": 66
 	},
 	{
 
@@ -1577,12 +998,11 @@
 
 			"last_name": "Hill",
 
-			"elo": 750.0
+			"elo": 790.0
 
 		},
 		"model": "rank.player",
-		"pk": 99
-
+		"pk": 67
 	},
 	{
 
@@ -1593,12 +1013,11 @@
 
 			"last_name": "Hillis",
 
-			"elo": 750.0
+			"elo": 684.0
 
 		},
 		"model": "rank.player",
-		"pk": 100
-
+		"pk": 68
 	},
 	{
 
@@ -1609,28 +1028,11 @@
 
 			"last_name": "Hillman",
 
-			"elo": 750.0
+			"elo": 820.0
 
 		},
 		"model": "rank.player",
-		"pk": 101
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Robert",
-
-			"last_name": "Hughes",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 102
-
+		"pk": 69
 	},
 	{
 
@@ -1641,28 +1043,11 @@
 
 			"last_name": "Hyde",
 
-			"elo": 750.0
+			"elo": 768.0
 
 		},
 		"model": "rank.player",
-		"pk": 103
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Henry",
-
-			"last_name": "Hynoski",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 104
-
+		"pk": 70
 	},
 	{
 
@@ -1673,12 +1058,11 @@
 
 			"last_name": "Ingram",
 
-			"elo": 750.0
+			"elo": 806.0
 
 		},
 		"model": "rank.player",
-		"pk": 105
-
+		"pk": 71
 	},
 	{
 
@@ -1689,12 +1073,11 @@
 
 			"last_name": "Ivory",
 
-			"elo": 750.0
+			"elo": 816.0
 
 		},
 		"model": "rank.player",
-		"pk": 106
-
+		"pk": 72
 	},
 	{
 
@@ -1705,12 +1088,11 @@
 
 			"last_name": "Jackson",
 
-			"elo": 750.0
+			"elo": 786.0
 
 		},
 		"model": "rank.player",
-		"pk": 107
-
+		"pk": 73
 	},
 	{
 
@@ -1721,28 +1103,11 @@
 
 			"last_name": "Jackson",
 
-			"elo": 750.0
+			"elo": 776.0
 
 		},
 		"model": "rank.player",
-		"pk": 108
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Mike",
-
-			"last_name": "James",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 109
-
+		"pk": 74
 	},
 	{
 
@@ -1753,28 +1118,11 @@
 
 			"last_name": "Jennings",
 
-			"elo": 750.0
+			"elo": 818.0
 
 		},
 		"model": "rank.player",
-		"pk": 110
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Austin",
-
-			"last_name": "Johnson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 111
-
+		"pk": 75
 	},
 	{
 
@@ -1785,12 +1133,11 @@
 
 			"last_name": "Johnson",
 
-			"elo": 750.0
+			"elo": 766.0
 
 		},
 		"model": "rank.player",
-		"pk": 112
-
+		"pk": 76
 	},
 	{
 
@@ -1801,28 +1148,11 @@
 
 			"last_name": "Johnson",
 
-			"elo": 750.0
+			"elo": 754.0
 
 		},
 		"model": "rank.player",
-		"pk": 113
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Will",
-
-			"last_name": "Johnson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 114
-
+		"pk": 77
 	},
 	{
 
@@ -1833,28 +1163,11 @@
 
 			"last_name": "Jones-Drew",
 
-			"elo": 750.0
+			"elo": 710.0
 
 		},
 		"model": "rank.player",
-		"pk": 115
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "John",
-
-			"last_name": "Kuhn",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 116
-
+		"pk": 78
 	},
 	{
 
@@ -1865,12 +1178,11 @@
 
 			"last_name": "Lacy",
 
-			"elo": 750.0
+			"elo": 834.0
 
 		},
 		"model": "rank.player",
-		"pk": 117
-
+		"pk": 79
 	},
 	{
 
@@ -1881,12 +1193,11 @@
 
 			"last_name": "Lynch",
 
-			"elo": 750.0
+			"elo": 838.0
 
 		},
 		"model": "rank.player",
-		"pk": 118
-
+		"pk": 80
 	},
 	{
 
@@ -1897,12 +1208,11 @@
 
 			"last_name": "Martin",
 
-			"elo": 750.0
+			"elo": 796.0
 
 		},
 		"model": "rank.player",
-		"pk": 119
-
+		"pk": 81
 	},
 	{
 
@@ -1913,12 +1223,11 @@
 
 			"last_name": "Mason",
 
-			"elo": 750.0
+			"elo": 788.0
 
 		},
 		"model": "rank.player",
-		"pk": 120
-
+		"pk": 82
 	},
 	{
 
@@ -1929,12 +1238,11 @@
 
 			"last_name": "Mathews",
 
-			"elo": 750.0
+			"elo": 800.0
 
 		},
 		"model": "rank.player",
-		"pk": 121
-
+		"pk": 83
 	},
 	{
 
@@ -1945,12 +1253,11 @@
 
 			"last_name": "McCluster",
 
-			"elo": 750.0
+			"elo": 690.0
 
 		},
 		"model": "rank.player",
-		"pk": 122
-
+		"pk": 84
 	},
 	{
 
@@ -1961,12 +1268,11 @@
 
 			"last_name": "McCoy",
 
-			"elo": 750.0
+			"elo": 842.0
 
 		},
 		"model": "rank.player",
-		"pk": 123
-
+		"pk": 85
 	},
 	{
 
@@ -1977,12 +1283,11 @@
 
 			"last_name": "McFadden",
 
-			"elo": 750.0
+			"elo": 780.0
 
 		},
 		"model": "rank.player",
-		"pk": 124
-
+		"pk": 86
 	},
 	{
 
@@ -1993,44 +1298,11 @@
 
 			"last_name": "McKinnon",
 
-			"elo": 750.0
+			"elo": 808.0
 
 		},
 		"model": "rank.player",
-		"pk": 125
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Christine",
-
-			"last_name": "Michael",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 126
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Bruce",
-
-			"last_name": "Miller",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 127
-
+		"pk": 87
 	},
 	{
 
@@ -2041,12 +1313,11 @@
 
 			"last_name": "Miller",
 
-			"elo": 750.0
+			"elo": 830.0
 
 		},
 		"model": "rank.player",
-		"pk": 128
-
+		"pk": 88
 	},
 	{
 
@@ -2057,12 +1328,11 @@
 
 			"last_name": "Morris",
 
-			"elo": 750.0
+			"elo": 828.0
 
 		},
 		"model": "rank.player",
-		"pk": 129
-
+		"pk": 89
 	},
 	{
 
@@ -2073,60 +1343,11 @@
 
 			"last_name": "Murray",
 
-			"elo": 750.0
+			"elo": 848.0
 
 		},
 		"model": "rank.player",
-		"pk": 130
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Latavius",
-
-			"last_name": "Murray",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 131
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Chris",
-
-			"last_name": "Ogbonnaya",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 132
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Jamize",
-
-			"last_name": "Olawale",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 133
-
+		"pk": 90
 	},
 	{
 
@@ -2137,28 +1358,11 @@
 
 			"last_name": "Oliver",
 
-			"elo": 750.0
+			"elo": 802.0
 
 		},
 		"model": "rank.player",
-		"pk": 134
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Cedric",
-
-			"last_name": "Peerman",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 135
-
+		"pk": 91
 	},
 	{
 
@@ -2169,28 +1373,11 @@
 
 			"last_name": "Pierce",
 
-			"elo": 750.0
+			"elo": 736.0
 
 		},
 		"model": "rank.player",
-		"pk": 136
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Bilal",
-
-			"last_name": "Powell",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 137
-
+		"pk": 92
 	},
 	{
 
@@ -2201,12 +1388,11 @@
 
 			"last_name": "Rainey",
 
-			"elo": 750.0
+			"elo": 756.0
 
 		},
 		"model": "rank.player",
-		"pk": 138
-
+		"pk": 93
 	},
 	{
 
@@ -2217,60 +1403,11 @@
 
 			"last_name": "Randle",
 
-			"elo": 750.0
+			"elo": 708.0
 
 		},
 		"model": "rank.player",
-		"pk": 139
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Darrin",
-
-			"last_name": "Reaves",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 140
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Silas",
-
-			"last_name": "Redd",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 141
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Marcel",
-
-			"last_name": "Reece",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 142
-
+		"pk": 94
 	},
 	{
 
@@ -2281,12 +1418,11 @@
 
 			"last_name": "Richardson",
 
-			"elo": 750.0
+			"elo": 798.0
 
 		},
 		"model": "rank.player",
-		"pk": 143
-
+		"pk": 95
 	},
 	{
 
@@ -2297,12 +1433,11 @@
 
 			"last_name": "Riddick",
 
-			"elo": 750.0
+			"elo": 716.0
 
 		},
 		"model": "rank.player",
-		"pk": 144
-
+		"pk": 96
 	},
 	{
 
@@ -2313,12 +1448,11 @@
 
 			"last_name": "Robinson",
 
-			"elo": 750.0
+			"elo": 782.0
 
 		},
 		"model": "rank.player",
-		"pk": 145
-
+		"pk": 97
 	},
 	{
 
@@ -2329,12 +1463,11 @@
 
 			"last_name": "Robinson",
 
-			"elo": 750.0
+			"elo": 742.0
 
 		},
 		"model": "rank.player",
-		"pk": 146
-
+		"pk": 98
 	},
 	{
 
@@ -2345,12 +1478,11 @@
 
 			"last_name": "Rodgers",
 
-			"elo": 750.0
+			"elo": 724.0
 
 		},
 		"model": "rank.player",
-		"pk": 147
-
+		"pk": 99
 	},
 	{
 
@@ -2361,28 +1493,11 @@
 
 			"last_name": "Sankey",
 
-			"elo": 750.0
+			"elo": 792.0
 
 		},
 		"model": "rank.player",
-		"pk": 148
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Anthony",
-
-			"last_name": "Sherman",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 149
-
+		"pk": 100
 	},
 	{
 
@@ -2393,12 +1508,11 @@
 
 			"last_name": "Smith",
 
-			"elo": 750.0
+			"elo": 718.0
 
 		},
 		"model": "rank.player",
-		"pk": 150
-
+		"pk": 101
 	},
 	{
 
@@ -2409,12 +1523,11 @@
 
 			"last_name": "Sproles",
 
-			"elo": 750.0
+			"elo": 794.0
 
 		},
 		"model": "rank.player",
-		"pk": 151
-
+		"pk": 102
 	},
 	{
 
@@ -2425,12 +1538,11 @@
 
 			"last_name": "Stacy",
 
-			"elo": 750.0
+			"elo": 772.0
 
 		},
 		"model": "rank.player",
-		"pk": 152
-
+		"pk": 103
 	},
 	{
 
@@ -2441,12 +1553,11 @@
 
 			"last_name": "Starks",
 
-			"elo": 750.0
+			"elo": 760.0
 
 		},
 		"model": "rank.player",
-		"pk": 153
-
+		"pk": 104
 	},
 	{
 
@@ -2457,28 +1568,11 @@
 
 			"last_name": "Stewart",
 
-			"elo": 750.0
+			"elo": 734.0
 
 		},
 		"model": "rank.player",
-		"pk": 154
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Frank",
-
-			"last_name": "Summers",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 155
-
+		"pk": 105
 	},
 	{
 
@@ -2489,12 +1583,11 @@
 
 			"last_name": "Taliaferro",
 
-			"elo": 750.0
+			"elo": 744.0
 
 		},
 		"model": "rank.player",
-		"pk": 156
-
+		"pk": 106
 	},
 	{
 
@@ -2505,12 +1598,11 @@
 
 			"last_name": "Tate",
 
-			"elo": 750.0
+			"elo": 824.0
 
 		},
 		"model": "rank.player",
-		"pk": 157
-
+		"pk": 107
 	},
 	{
 
@@ -2521,12 +1613,11 @@
 
 			"last_name": "Taylor",
 
-			"elo": 750.0
+			"elo": 696.0
 
 		},
 		"model": "rank.player",
-		"pk": 158
-
+		"pk": 108
 	},
 	{
 
@@ -2537,12 +1628,11 @@
 
 			"last_name": "Thomas",
 
-			"elo": 750.0
+			"elo": 784.0
 
 		},
 		"model": "rank.player",
-		"pk": 159
-
+		"pk": 109
 	},
 	{
 
@@ -2553,28 +1643,11 @@
 
 			"last_name": "Thomas",
 
-			"elo": 750.0
+			"elo": 698.0
 
 		},
 		"model": "rank.player",
-		"pk": 160
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "De'Anthony",
-
-			"last_name": "Thomas",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 161
-
+		"pk": 110
 	},
 	{
 
@@ -2585,28 +1658,11 @@
 
 			"last_name": "Thompson",
 
-			"elo": 750.0
+			"elo": 714.0
 
 		},
 		"model": "rank.player",
-		"pk": 162
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Jordan",
-
-			"last_name": "Todman",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 163
-
+		"pk": 111
 	},
 	{
 
@@ -2617,12 +1673,11 @@
 
 			"last_name": "Turbin",
 
-			"elo": 750.0
+			"elo": 694.0
 
 		},
 		"model": "rank.player",
-		"pk": 164
-
+		"pk": 112
 	},
 	{
 
@@ -2633,44 +1688,11 @@
 
 			"last_name": "Vereen",
 
-			"elo": 750.0
+			"elo": 814.0
 
 		},
 		"model": "rank.player",
-		"pk": 165
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Leon",
-
-			"last_name": "Washington",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 166
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Trey",
-
-			"last_name": "Watts",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 167
-
+		"pk": 113
 	},
 	{
 
@@ -2681,44 +1703,11 @@
 
 			"last_name": "West",
 
-			"elo": 750.0
+			"elo": 730.0
 
 		},
 		"model": "rank.player",
-		"pk": 168
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "James",
-
-			"last_name": "White",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 169
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Fozzy",
-
-			"last_name": "Whittaker",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 170
-
+		"pk": 114
 	},
 	{
 
@@ -2729,28 +1718,11 @@
 
 			"last_name": "Williams",
 
-			"elo": 750.0
+			"elo": 774.0
 
 		},
 		"model": "rank.player",
-		"pk": 171
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Damien",
-
-			"last_name": "Williams",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 172
-
+		"pk": 115
 	},
 	{
 
@@ -2761,44 +1733,11 @@
 
 			"last_name": "Williams",
 
-			"elo": 750.0
+			"elo": 740.0
 
 		},
 		"model": "rank.player",
-		"pk": 173
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "George",
-
-			"last_name": "Winn",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 174
-
-	},
-	{
-
-		"fields": {
-			"position": "RB",
-
-			"first_name": "Darrel",
-
-			"last_name": "Young",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 175
-
+		"pk": 116
 	},
 	{
 
@@ -2809,44 +1748,11 @@
 
 			"last_name": "Adams",
 
-			"elo": 750.0
+			"elo": 722.0
 
 		},
 		"model": "rank.player",
-		"pk": 176
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Kamar",
-
-			"last_name": "Aiken",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 177
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Seyi",
-
-			"last_name": "Ajirotutu",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 178
-
+		"pk": 117
 	},
 	{
 
@@ -2857,12 +1763,11 @@
 
 			"last_name": "Allen",
 
-			"elo": 750.0
+			"elo": 814.0
 
 		},
 		"model": "rank.player",
-		"pk": 179
-
+		"pk": 118
 	},
 	{
 
@@ -2873,12 +1778,11 @@
 
 			"last_name": "Amendola",
 
-			"elo": 750.0
+			"elo": 684.0
 
 		},
 		"model": "rank.player",
-		"pk": 180
-
+		"pk": 119
 	},
 	{
 
@@ -2889,12 +1793,11 @@
 
 			"last_name": "Austin",
 
-			"elo": 750.0
+			"elo": 700.0
 
 		},
 		"model": "rank.player",
-		"pk": 181
-
+		"pk": 120
 	},
 	{
 
@@ -2905,28 +1808,11 @@
 
 			"last_name": "Austin",
 
-			"elo": 750.0
+			"elo": 710.0
 
 		},
 		"model": "rank.player",
-		"pk": 182
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Jason",
-
-			"last_name": "Avant",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 183
-
+		"pk": 121
 	},
 	{
 
@@ -2937,28 +1823,11 @@
 
 			"last_name": "Avery",
 
-			"elo": 750.0
+			"elo": 658.0
 
 		},
 		"model": "rank.player",
-		"pk": 184
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Stedman",
-
-			"last_name": "Bailey",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 185
-
+		"pk": 122
 	},
 	{
 
@@ -2969,28 +1838,11 @@
 
 			"last_name": "Baldwin",
 
-			"elo": 750.0
+			"elo": 768.0
 
 		},
 		"model": "rank.player",
-		"pk": 186
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Cole",
-
-			"last_name": "Beasley",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 187
-
+		"pk": 123
 	},
 	{
 
@@ -3001,12 +1853,11 @@
 
 			"last_name": "Beckham",
 
-			"elo": 750.0
+			"elo": 760.0
 
 		},
 		"model": "rank.player",
-		"pk": 188
-
+		"pk": 124
 	},
 	{
 
@@ -3017,44 +1868,11 @@
 
 			"last_name": "Benjamin",
 
-			"elo": 750.0
+			"elo": 824.0
 
 		},
 		"model": "rank.player",
-		"pk": 189
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Travis",
-
-			"last_name": "Benjamin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 190
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brenton",
-
-			"last_name": "Bersin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 191
-
+		"pk": 125
 	},
 	{
 
@@ -3065,12 +1883,11 @@
 
 			"last_name": "Boldin",
 
-			"elo": 750.0
+			"elo": 758.0
 
 		},
 		"model": "rank.player",
-		"pk": 192
-
+		"pk": 126
 	},
 	{
 
@@ -3081,28 +1898,11 @@
 
 			"last_name": "Bowe",
 
-			"elo": 750.0
+			"elo": 732.0
 
 		},
 		"model": "rank.player",
-		"pk": 193
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Jarrett",
-
-			"last_name": "Boykin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 194
-
+		"pk": 127
 	},
 	{
 
@@ -3113,12 +1913,11 @@
 
 			"last_name": "Britt",
 
-			"elo": 750.0
+			"elo": 704.0
 
 		},
 		"model": "rank.player",
-		"pk": 195
-
+		"pk": 128
 	},
 	{
 
@@ -3129,44 +1928,11 @@
 
 			"last_name": "Brown",
 
-			"elo": 750.0
+			"elo": 848.0
 
 		},
 		"model": "rank.player",
-		"pk": 196
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Philly",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 197
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Jaron",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 198
-
+		"pk": 129
 	},
 	{
 
@@ -3177,92 +1943,11 @@
 
 			"last_name": "Brown",
 
-			"elo": 750.0
+			"elo": 726.0
 
 		},
 		"model": "rank.player",
-		"pk": 199
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Justin",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 200
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Marlon",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 201
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Mike",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 202
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Vincent",
-
-			"last_name": "Brown",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 203
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Ryan",
-
-			"last_name": "Broyles",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 204
-
+		"pk": 130
 	},
 	{
 
@@ -3273,12 +1958,11 @@
 
 			"last_name": "Bryant",
 
-			"elo": 750.0
+			"elo": 844.0
 
 		},
 		"model": "rank.player",
-		"pk": 205
-
+		"pk": 131
 	},
 	{
 
@@ -3289,76 +1973,11 @@
 
 			"last_name": "Bryant",
 
-			"elo": 750.0
+			"elo": 746.0
 
 		},
 		"model": "rank.player",
-		"pk": 206
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Isaiah",
-
-			"last_name": "Burse",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 207
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brice",
-
-			"last_name": "Butler",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 208
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Andre",
-
-			"last_name": "Caldwell",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 209
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Michael",
-
-			"last_name": "Campanaro",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 210
-
+		"pk": 132
 	},
 	{
 
@@ -3369,12 +1988,11 @@
 
 			"last_name": "Cobb",
 
-			"elo": 750.0
+			"elo": 836.0
 
 		},
 		"model": "rank.player",
-		"pk": 211
-
+		"pk": 133
 	},
 	{
 
@@ -3385,12 +2003,11 @@
 
 			"last_name": "Colston",
 
-			"elo": 750.0
+			"elo": 780.0
 
 		},
 		"model": "rank.player",
-		"pk": 212
-
+		"pk": 134
 	},
 	{
 
@@ -3401,12 +2018,11 @@
 
 			"last_name": "Cooks",
 
-			"elo": 750.0
+			"elo": 786.0
 
 		},
 		"model": "rank.player",
-		"pk": 213
-
+		"pk": 135
 	},
 	{
 
@@ -3417,12 +2033,11 @@
 
 			"last_name": "Cooper",
 
-			"elo": 750.0
+			"elo": 730.0
 
 		},
 		"model": "rank.player",
-		"pk": 214
-
+		"pk": 136
 	},
 	{
 
@@ -3433,12 +2048,11 @@
 
 			"last_name": "Cotchery",
 
-			"elo": 750.0
+			"elo": 688.0
 
 		},
 		"model": "rank.player",
-		"pk": 215
-
+		"pk": 137
 	},
 	{
 
@@ -3449,12 +2063,11 @@
 
 			"last_name": "Crabtree",
 
-			"elo": 750.0
+			"elo": 798.0
 
 		},
 		"model": "rank.player",
-		"pk": 216
-
+		"pk": 138
 	},
 	{
 
@@ -3465,44 +2078,11 @@
 
 			"last_name": "Decker",
 
-			"elo": 750.0
+			"elo": 782.0
 
 		},
 		"model": "rank.player",
-		"pk": 217
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Aaron",
-
-			"last_name": "Dobson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 218
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Kevin",
-
-			"last_name": "Dorsey",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 219
-
+		"pk": 139
 	},
 	{
 
@@ -3513,12 +2093,11 @@
 
 			"last_name": "Douglas",
 
-			"elo": 750.0
+			"elo": 694.0
 
 		},
 		"model": "rank.player",
-		"pk": 220
-
+		"pk": 140
 	},
 	{
 
@@ -3529,28 +2108,11 @@
 
 			"last_name": "Edelman",
 
-			"elo": 750.0
+			"elo": 800.0
 
 		},
 		"model": "rank.player",
-		"pk": 221
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Bruce",
-
-			"last_name": "Ellington",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 222
-
+		"pk": 141
 	},
 	{
 
@@ -3561,12 +2123,11 @@
 
 			"last_name": "Evans",
 
-			"elo": 750.0
+			"elo": 716.0
 
 		},
 		"model": "rank.player",
-		"pk": 223
-
+		"pk": 142
 	},
 	{
 
@@ -3577,12 +2138,11 @@
 
 			"last_name": "Fitzgerald",
 
-			"elo": 750.0
+			"elo": 796.0
 
 		},
 		"model": "rank.player",
-		"pk": 224
-
+		"pk": 143
 	},
 	{
 
@@ -3593,12 +2153,11 @@
 
 			"last_name": "Floyd",
 
-			"elo": 750.0
+			"elo": 754.0
 
 		},
 		"model": "rank.player",
-		"pk": 225
-
+		"pk": 144
 	},
 	{
 
@@ -3609,44 +2168,11 @@
 
 			"last_name": "Floyd",
 
-			"elo": 750.0
+			"elo": 808.0
 
 		},
 		"model": "rank.player",
-		"pk": 226
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Corey",
-
-			"last_name": "Fuller",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 227
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Taylor",
-
-			"last_name": "Gabriel",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 228
-
+		"pk": 145
 	},
 	{
 
@@ -3657,108 +2183,11 @@
 
 			"last_name": "Garcon",
 
-			"elo": 750.0
+			"elo": 820.0
 
 		},
 		"model": "rank.player",
-		"pk": 229
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brandon",
-
-			"last_name": "Gibson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 230
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Ted",
-
-			"last_name": "Ginn",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 231
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Chris",
-
-			"last_name": "Givens",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 232
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Marquise",
-
-			"last_name": "Goodwin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 233
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "T.J.",
-
-			"last_name": "Graham",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 234
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Ryan",
-
-			"last_name": "Grant",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 235
-
+		"pk": 146
 	},
 	{
 
@@ -3769,60 +2198,11 @@
 
 			"last_name": "Green",
 
-			"elo": 750.0
+			"elo": 840.0
 
 		},
 		"model": "rank.player",
-		"pk": 236
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Derek",
-
-			"last_name": "Hagan",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 237
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Frankie",
-
-			"last_name": "Hammond",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 238
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Dwayne",
-
-			"last_name": "Harris",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 239
-
+		"pk": 147
 	},
 	{
 
@@ -3833,12 +2213,11 @@
 
 			"last_name": "Hartline",
 
-			"elo": 750.0
+			"elo": 708.0
 
 		},
 		"model": "rank.player",
-		"pk": 240
-
+		"pk": 148
 	},
 	{
 
@@ -3849,12 +2228,11 @@
 
 			"last_name": "Harvin",
 
-			"elo": 750.0
+			"elo": 788.0
 
 		},
 		"model": "rank.player",
-		"pk": 241
-
+		"pk": 149
 	},
 	{
 
@@ -3865,44 +2243,11 @@
 
 			"last_name": "Hawkins",
 
-			"elo": 750.0
+			"elo": 748.0
 
 		},
 		"model": "rank.player",
-		"pk": 242
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Junior",
-
-			"last_name": "Hemingway",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 243
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Robert",
-
-			"last_name": "Herron",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 244
-
+		"pk": 150
 	},
 	{
 
@@ -3913,60 +2258,26 @@
 
 			"last_name": "Hester",
 
-			"elo": 750.0
+			"elo": 662.0
 
 		},
 		"model": "rank.player",
-		"pk": 245
-
+		"pk": 151
 	},
 	{
 
 		"fields": {
 			"position": "WR",
 
-			"first_name": "Darrius",
-
-			"last_name": "Heyward-Bey",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 246
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "T.Y.",
+			"first_name": "Ty",
 
 			"last_name": "Hilton",
 
-			"elo": 750.0
+			"elo": 826.0
 
 		},
 		"model": "rank.player",
-		"pk": 247
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Chris",
-
-			"last_name": "Hogan",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 248
-
+		"pk": 152
 	},
 	{
 
@@ -3977,28 +2288,11 @@
 
 			"last_name": "Holmes",
 
-			"elo": 750.0
+			"elo": 764.0
 
 		},
 		"model": "rank.player",
-		"pk": 249
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Santonio",
-
-			"last_name": "Holmes",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 250
-
+		"pk": 153
 	},
 	{
 
@@ -4009,28 +2303,11 @@
 
 			"last_name": "Hopkins",
 
-			"elo": 750.0
+			"elo": 790.0
 
 		},
 		"model": "rank.player",
-		"pk": 251
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Josh",
-
-			"last_name": "Huff",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 252
-
+		"pk": 154
 	},
 	{
 
@@ -4041,12 +2318,11 @@
 
 			"last_name": "Hunter",
 
-			"elo": 750.0
+			"elo": 744.0
 
 		},
 		"model": "rank.player",
-		"pk": 253
-
+		"pk": 155
 	},
 	{
 
@@ -4057,12 +2333,11 @@
 
 			"last_name": "Hurns",
 
-			"elo": 750.0
+			"elo": 696.0
 
 		},
 		"model": "rank.player",
-		"pk": 254
-
+		"pk": 156
 	},
 	{
 
@@ -4073,12 +2348,11 @@
 
 			"last_name": "Jackson",
 
-			"elo": 750.0
+			"elo": 804.0
 
 		},
 		"model": "rank.player",
-		"pk": 255
-
+		"pk": 157
 	},
 	{
 
@@ -4089,28 +2363,11 @@
 
 			"last_name": "Jackson",
 
-			"elo": 750.0
+			"elo": 816.0
 
 		},
 		"model": "rank.player",
-		"pk": 256
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Jeff",
-
-			"last_name": "Janis",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 257
-
+		"pk": 158
 	},
 	{
 
@@ -4121,28 +2378,11 @@
 
 			"last_name": "Jeffery",
 
-			"elo": 750.0
+			"elo": 828.0
 
 		},
 		"model": "rank.player",
-		"pk": 258
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "A.J.",
-
-			"last_name": "Jenkins",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 259
-
+		"pk": 159
 	},
 	{
 
@@ -4153,12 +2393,11 @@
 
 			"last_name": "Jennings",
 
-			"elo": 750.0
+			"elo": 734.0
 
 		},
 		"model": "rank.player",
-		"pk": 260
-
+		"pk": 160
 	},
 	{
 
@@ -4169,12 +2408,11 @@
 
 			"last_name": "Johnson",
 
-			"elo": 750.0
+			"elo": 806.0
 
 		},
 		"model": "rank.player",
-		"pk": 261
-
+		"pk": 161
 	},
 	{
 
@@ -4185,44 +2423,11 @@
 
 			"last_name": "Johnson",
 
-			"elo": 750.0
+			"elo": 838.0
 
 		},
 		"model": "rank.player",
-		"pk": 262
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Charles",
-
-			"last_name": "Johnson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 263
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Damaris",
-
-			"last_name": "Johnson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 264
-
+		"pk": 162
 	},
 	{
 
@@ -4233,28 +2438,11 @@
 
 			"last_name": "Johnson",
 
-			"elo": 750.0
+			"elo": 714.0
 
 		},
 		"model": "rank.player",
-		"pk": 265
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Jacoby",
-
-			"last_name": "Jones",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 266
-
+		"pk": 163
 	},
 	{
 
@@ -4265,12 +2453,11 @@
 
 			"last_name": "Jones",
 
-			"elo": 750.0
+			"elo": 774.0
 
 		},
 		"model": "rank.player",
-		"pk": 267
-
+		"pk": 164
 	},
 	{
 
@@ -4281,12 +2468,11 @@
 
 			"last_name": "Jones",
 
-			"elo": 750.0
+			"elo": 842.0
 
 		},
 		"model": "rank.player",
-		"pk": 268
-
+		"pk": 165
 	},
 	{
 
@@ -4297,12 +2483,11 @@
 
 			"last_name": "Kearse",
 
-			"elo": 750.0
+			"elo": 690.0
 
 		},
 		"model": "rank.player",
-		"pk": 269
-
+		"pk": 166
 	},
 	{
 
@@ -4313,12 +2498,11 @@
 
 			"last_name": "Kerley",
 
-			"elo": 750.0
+			"elo": 678.0
 
 		},
 		"model": "rank.player",
-		"pk": 270
-
+		"pk": 167
 	},
 	{
 
@@ -4329,12 +2513,11 @@
 
 			"last_name": "LaFell",
 
-			"elo": 750.0
+			"elo": 772.0
 
 		},
 		"model": "rank.player",
-		"pk": 271
-
+		"pk": 168
 	},
 	{
 
@@ -4345,12 +2528,11 @@
 
 			"last_name": "Landry",
 
-			"elo": 750.0
+			"elo": 728.0
 
 		},
 		"model": "rank.player",
-		"pk": 272
-
+		"pk": 169
 	},
 	{
 
@@ -4361,28 +2543,11 @@
 
 			"last_name": "Lee",
 
-			"elo": 750.0
+			"elo": 676.0
 
 		},
 		"model": "rank.player",
-		"pk": 273
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Greg",
-
-			"last_name": "Little",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 274
-
+		"pk": 170
 	},
 	{
 
@@ -4393,28 +2558,11 @@
 
 			"last_name": "Lloyd",
 
-			"elo": 750.0
+			"elo": 668.0
 
 		},
 		"model": "rank.player",
-		"pk": 275
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Ricardo",
-
-			"last_name": "Lockette",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 276
-
+		"pk": 171
 	},
 	{
 
@@ -4425,28 +2573,11 @@
 
 			"last_name": "Maclin",
 
-			"elo": 750.0
+			"elo": 832.0
 
 		},
 		"model": "rank.player",
-		"pk": 277
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Jeff",
-
-			"last_name": "Maehl",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 278
-
+		"pk": 172
 	},
 	{
 
@@ -4457,44 +2588,11 @@
 
 			"last_name": "Marshall",
 
-			"elo": 750.0
+			"elo": 834.0
 
 		},
 		"model": "rank.player",
-		"pk": 279
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Keshawn",
-
-			"last_name": "Martin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 280
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Freddie",
-
-			"last_name": "Martino",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 281
-
+		"pk": 173
 	},
 	{
 
@@ -4505,44 +2603,11 @@
 
 			"last_name": "Matthews",
 
-			"elo": 750.0
+			"elo": 718.0
 
 		},
 		"model": "rank.player",
-		"pk": 282
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Rishard",
-
-			"last_name": "Matthews",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 283
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Robert",
-
-			"last_name": "Meachem",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 284
-
+		"pk": 174
 	},
 	{
 
@@ -4553,76 +2618,11 @@
 
 			"last_name": "Moncrief",
 
-			"elo": 750.0
+			"elo": 740.0
 
 		},
 		"model": "rank.player",
-		"pk": 285
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Denarius",
-
-			"last_name": "Moore",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 286
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Lance",
-
-			"last_name": "Moore",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 287
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Joe",
-
-			"last_name": "Morgan",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 288
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Josh",
-
-			"last_name": "Morgan",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 289
-
+		"pk": 175
 	},
 	{
 
@@ -4633,12 +2633,11 @@
 
 			"last_name": "Murphy",
 
-			"elo": 750.0
+			"elo": 706.0
 
 		},
 		"model": "rank.player",
-		"pk": 290
-
+		"pk": 176
 	},
 	{
 
@@ -4649,12 +2648,11 @@
 
 			"last_name": "Nelson",
 
-			"elo": 750.0
+			"elo": 846.0
 
 		},
 		"model": "rank.player",
-		"pk": 291
-
+		"pk": 177
 	},
 	{
 
@@ -4665,92 +2663,11 @@
 
 			"last_name": "Nicks",
 
-			"elo": 750.0
+			"elo": 712.0
 
 		},
 		"model": "rank.player",
-		"pk": 292
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Kevin",
-
-			"last_name": "Norwood",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 293
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Kevin",
-
-			"last_name": "Ogletree",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 294
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Kassim",
-
-			"last_name": "Osgood",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 295
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Chris",
-
-			"last_name": "Owusu",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 296
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Preston",
-
-			"last_name": "Parker",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 297
-
+		"pk": 178
 	},
 	{
 
@@ -4761,28 +2678,11 @@
 
 			"last_name": "Patterson",
 
-			"elo": 750.0
+			"elo": 770.0
 
 		},
 		"model": "rank.player",
-		"pk": 298
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brian",
-
-			"last_name": "Quick",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 299
-
+		"pk": 179
 	},
 	{
 
@@ -4793,28 +2693,11 @@
 
 			"last_name": "Randle",
 
-			"elo": 750.0
+			"elo": 792.0
 
 		},
 		"model": "rank.player",
-		"pk": 300
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Paul",
-
-			"last_name": "Richardson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 301
-
+		"pk": 180
 	},
 	{
 
@@ -4825,28 +2708,11 @@
 
 			"last_name": "Roberts",
 
-			"elo": 750.0
+			"elo": 686.0
 
 		},
 		"model": "rank.player",
-		"pk": 302
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Aldrick",
-
-			"last_name": "Robinson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 303
-
+		"pk": 181
 	},
 	{
 
@@ -4857,12 +2723,11 @@
 
 			"last_name": "Robinson",
 
-			"elo": 750.0
+			"elo": 752.0
 
 		},
 		"model": "rank.player",
-		"pk": 304
-
+		"pk": 182
 	},
 	{
 
@@ -4873,12 +2738,11 @@
 
 			"last_name": "Ross",
 
-			"elo": 750.0
+			"elo": 664.0
 
 		},
 		"model": "rank.player",
-		"pk": 305
-
+		"pk": 183
 	},
 	{
 
@@ -4889,28 +2753,11 @@
 
 			"last_name": "Royal",
 
-			"elo": 750.0
+			"elo": 742.0
 
 		},
 		"model": "rank.player",
-		"pk": 306
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Greg",
-
-			"last_name": "Salas",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 307
-
+		"pk": 184
 	},
 	{
 
@@ -4921,28 +2768,11 @@
 
 			"last_name": "Sanders",
 
-			"elo": 750.0
+			"elo": 830.0
 
 		},
 		"model": "rank.player",
-		"pk": 308
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Ace",
-
-			"last_name": "Sanders",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 309
-
+		"pk": 185
 	},
 	{
 
@@ -4953,44 +2783,11 @@
 
 			"last_name": "Sanu",
 
-			"elo": 750.0
+			"elo": 766.0
 
 		},
 		"model": "rank.player",
-		"pk": 310
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Dane",
-
-			"last_name": "Sanzenbacher",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 311
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Russell",
-
-			"last_name": "Shepard",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 312
-
+		"pk": 186
 	},
 	{
 
@@ -5001,28 +2798,11 @@
 
 			"last_name": "Shorts",
 
-			"elo": 750.0
+			"elo": 736.0
 
 		},
 		"model": "rank.player",
-		"pk": 313
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brad",
-
-			"last_name": "Smith",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 314
-
+		"pk": 187
 	},
 	{
 
@@ -5033,28 +2813,11 @@
 
 			"last_name": "Smith",
 
-			"elo": 750.0
+			"elo": 776.0
 
 		},
 		"model": "rank.player",
-		"pk": 315
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Rodney",
-
-			"last_name": "Smith",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 316
-
+		"pk": 188
 	},
 	{
 
@@ -5065,12 +2828,11 @@
 
 			"last_name": "Smith",
 
-			"elo": 750.0
+			"elo": 818.0
 
 		},
 		"model": "rank.player",
-		"pk": 317
-
+		"pk": 189
 	},
 	{
 
@@ -5081,44 +2843,11 @@
 
 			"last_name": "Stills",
 
-			"elo": 750.0
+			"elo": 702.0
 
 		},
 		"model": "rank.player",
-		"pk": 318
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Devin",
-
-			"last_name": "Street",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 319
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brandon",
-
-			"last_name": "Tate",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 320
-
+		"pk": 190
 	},
 	{
 
@@ -5129,28 +2858,11 @@
 
 			"last_name": "Tate",
 
-			"elo": 750.0
+			"elo": 810.0
 
 		},
 		"model": "rank.player",
-		"pk": 321
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Adam",
-
-			"last_name": "Thielen",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 322
-
+		"pk": 191
 	},
 	{
 
@@ -5161,44 +2873,11 @@
 
 			"last_name": "Thomas",
 
-			"elo": 750.0
+			"elo": 850.0
 
 		},
 		"model": "rank.player",
-		"pk": 323
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Kenbrell",
-
-			"last_name": "Thompkins",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 324
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Brian",
-
-			"last_name": "Tyms",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 325
-
+		"pk": 192
 	},
 	{
 
@@ -5209,60 +2888,11 @@
 
 			"last_name": "Wallace",
 
-			"elo": 750.0
+			"elo": 822.0
 
 		},
 		"model": "rank.player",
-		"pk": 326
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Bryan",
-
-			"last_name": "Walters",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 327
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Corey",
-
-			"last_name": "Washington",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 328
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Nate",
-
-			"last_name": "Washington",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 329
-
+		"pk": 193
 	},
 	{
 
@@ -5273,12 +2903,11 @@
 
 			"last_name": "Watkins",
 
-			"elo": 750.0
+			"elo": 812.0
 
 		},
 		"model": "rank.player",
-		"pk": 330
-
+		"pk": 194
 	},
 	{
 
@@ -5289,28 +2918,11 @@
 
 			"last_name": "Wayne",
 
-			"elo": 750.0
+			"elo": 794.0
 
 		},
 		"model": "rank.player",
-		"pk": 331
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Eric",
-
-			"last_name": "Weems",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 332
-
+		"pk": 195
 	},
 	{
 
@@ -5321,12 +2933,11 @@
 
 			"last_name": "Welker",
 
-			"elo": 750.0
+			"elo": 756.0
 
 		},
 		"model": "rank.player",
-		"pk": 333
-
+		"pk": 196
 	},
 	{
 
@@ -5337,12 +2948,11 @@
 
 			"last_name": "Wheaton",
 
-			"elo": 750.0
+			"elo": 738.0
 
 		},
 		"model": "rank.player",
-		"pk": 334
-
+		"pk": 197
 	},
 	{
 
@@ -5353,12 +2963,11 @@
 
 			"last_name": "White",
 
-			"elo": 750.0
+			"elo": 802.0
 
 		},
 		"model": "rank.player",
-		"pk": 335
-
+		"pk": 198
 	},
 	{
 
@@ -5369,12 +2978,11 @@
 
 			"last_name": "Williams",
 
-			"elo": 750.0
+			"elo": 674.0
 
 		},
 		"model": "rank.player",
-		"pk": 336
-
+		"pk": 199
 	},
 	{
 
@@ -5385,28 +2993,11 @@
 
 			"last_name": "Williams",
 
-			"elo": 750.0
+			"elo": 784.0
 
 		},
 		"model": "rank.player",
-		"pk": 337
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "Albert",
-
-			"last_name": "Wilson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 338
-
+		"pk": 200
 	},
 	{
 
@@ -5417,28 +3008,11 @@
 
 			"last_name": "Woods",
 
-			"elo": 750.0
+			"elo": 692.0
 
 		},
 		"model": "rank.player",
-		"pk": 339
-
-	},
-	{
-
-		"fields": {
-			"position": "WR",
-
-			"first_name": "James",
-
-			"last_name": "Wright",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 340
-
+		"pk": 201
 	},
 	{
 
@@ -5449,12 +3023,11 @@
 
 			"last_name": "Wright",
 
-			"elo": 750.0
+			"elo": 720.0
 
 		},
 		"model": "rank.player",
-		"pk": 341
-
+		"pk": 202
 	},
 	{
 
@@ -5465,12 +3038,11 @@
 
 			"last_name": "Wright",
 
-			"elo": 750.0
+			"elo": 778.0
 
 		},
 		"model": "rank.player",
-		"pk": 342
-
+		"pk": 203
 	},
 	{
 
@@ -5481,12 +3053,11 @@
 
 			"last_name": "Allen",
 
-			"elo": 750.0
+			"elo": 832.0
 
 		},
 		"model": "rank.player",
-		"pk": 343
-
+		"pk": 204
 	},
 	{
 
@@ -5497,44 +3068,11 @@
 
 			"last_name": "Amaro",
 
-			"elo": 750.0
+			"elo": 814.0
 
 		},
 		"model": "rank.player",
-		"pk": 344
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "David",
-
-			"last_name": "Ausberry",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 345
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Gary",
-
-			"last_name": "Barnidge",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 346
-
+		"pk": 205
 	},
 	{
 
@@ -5545,60 +3083,11 @@
 
 			"last_name": "Bennett",
 
-			"elo": 750.0
+			"elo": 842.0
 
 		},
 		"model": "rank.player",
-		"pk": 347
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Brandon",
-
-			"last_name": "Bostick",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 348
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Brett",
-
-			"last_name": "Brackett",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 349
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Kevin",
-
-			"last_name": "Brock",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 350
-
+		"pk": 206
 	},
 	{
 
@@ -5609,12 +3098,11 @@
 
 			"last_name": "Cameron",
 
-			"elo": 750.0
+			"elo": 828.0
 
 		},
 		"model": "rank.player",
-		"pk": 351
-
+		"pk": 207
 	},
 	{
 
@@ -5625,44 +3113,11 @@
 
 			"last_name": "Carlson",
 
-			"elo": 750.0
+			"elo": 762.0
 
 		},
 		"model": "rank.player",
-		"pk": 352
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Derek",
-
-			"last_name": "Carrier",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 353
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "James",
-
-			"last_name": "Casey",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 354
-
+		"pk": 208
 	},
 	{
 
@@ -5673,12 +3128,11 @@
 
 			"last_name": "Celek",
 
-			"elo": 750.0
+			"elo": 778.0
 
 		},
 		"model": "rank.player",
-		"pk": 355
-
+		"pk": 209
 	},
 	{
 
@@ -5689,12 +3143,11 @@
 
 			"last_name": "Chandler",
 
-			"elo": 750.0
+			"elo": 786.0
 
 		},
 		"model": "rank.player",
-		"pk": 356
-
+		"pk": 210
 	},
 	{
 
@@ -5705,28 +3158,11 @@
 
 			"last_name": "Clay",
 
-			"elo": 750.0
+			"elo": 816.0
 
 		},
 		"model": "rank.player",
-		"pk": 357
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Chase",
-
-			"last_name": "Coffman",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 358
-
+		"pk": 211
 	},
 	{
 
@@ -5737,28 +3173,11 @@
 
 			"last_name": "Cook",
 
-			"elo": 750.0
+			"elo": 806.0
 
 		},
 		"model": "rank.player",
-		"pk": 359
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Jeff",
-
-			"last_name": "Cumberland",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 360
-
+		"pk": 212
 	},
 	{
 
@@ -5769,28 +3188,11 @@
 
 			"last_name": "Daniels",
 
-			"elo": 750.0
+			"elo": 820.0
 
 		},
 		"model": "rank.player",
-		"pk": 361
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Kellen",
-
-			"last_name": "Davis",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 362
-
+		"pk": 213
 	},
 	{
 
@@ -5801,28 +3203,11 @@
 
 			"last_name": "Davis",
 
-			"elo": 750.0
+			"elo": 836.0
 
 		},
 		"model": "rank.player",
-		"pk": 363
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Ed",
-
-			"last_name": "Dickson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 364
-
+		"pk": 214
 	},
 	{
 
@@ -5833,44 +3218,11 @@
 
 			"last_name": "Donnell",
 
-			"elo": 750.0
+			"elo": 824.0
 
 		},
 		"model": "rank.player",
-		"pk": 365
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Jack",
-
-			"last_name": "Doyle",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 366
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Jim",
-
-			"last_name": "Dray",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 367
-
+		"pk": 215
 	},
 	{
 
@@ -5881,28 +3233,11 @@
 
 			"last_name": "Ebron",
 
-			"elo": 750.0
+			"elo": 790.0
 
 		},
 		"model": "rank.player",
-		"pk": 368
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Rhett",
-
-			"last_name": "Ellison",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 369
-
+		"pk": 216
 	},
 	{
 
@@ -5913,12 +3248,11 @@
 
 			"last_name": "Ertz",
 
-			"elo": 750.0
+			"elo": 830.0
 
 		},
 		"model": "rank.player",
-		"pk": 370
-
+		"pk": 217
 	},
 	{
 
@@ -5929,92 +3263,11 @@
 
 			"last_name": "Escobar",
 
-			"elo": 750.0
+			"elo": 772.0
 
 		},
 		"model": "rank.player",
-		"pk": 371
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Anthony",
-
-			"last_name": "Fasano",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 372
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Joseph",
-
-			"last_name": "Fauria",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 373
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Daniel",
-
-			"last_name": "Fells",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 374
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Darren",
-
-			"last_name": "Fells",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 375
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "C.J.",
-
-			"last_name": "Fiedorowicz",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 376
-
+		"pk": 218
 	},
 	{
 
@@ -6025,28 +3278,11 @@
 
 			"last_name": "Fleener",
 
-			"elo": 750.0
+			"elo": 796.0
 
 		},
 		"model": "rank.player",
-		"pk": 377
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Chase",
-
-			"last_name": "Ford",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 378
-
+		"pk": 219
 	},
 	{
 
@@ -6057,44 +3293,11 @@
 
 			"last_name": "Gates",
 
-			"elo": 750.0
+			"elo": 840.0
 
 		},
 		"model": "rank.player",
-		"pk": 379
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Crockett",
-
-			"last_name": "Gillmore",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 380
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Chris",
-
-			"last_name": "Gragg",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 381
-
+		"pk": 220
 	},
 	{
 
@@ -6105,12 +3308,11 @@
 
 			"last_name": "Graham",
 
-			"elo": 750.0
+			"elo": 798.0
 
 		},
 		"model": "rank.player",
-		"pk": 382
-
+		"pk": 221
 	},
 	{
 
@@ -6121,28 +3323,11 @@
 
 			"last_name": "Graham",
 
-			"elo": 750.0
+			"elo": 846.0
 
 		},
 		"model": "rank.player",
-		"pk": 383
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "MarQueis",
-
-			"last_name": "Gray",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 384
-
+		"pk": 222
 	},
 	{
 
@@ -6153,28 +3338,11 @@
 
 			"last_name": "Green",
 
-			"elo": 750.0
+			"elo": 810.0
 
 		},
 		"model": "rank.player",
-		"pk": 385
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Virgil",
-
-			"last_name": "Green",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 386
-
+		"pk": 223
 	},
 	{
 
@@ -6185,28 +3353,11 @@
 
 			"last_name": "Gresham",
 
-			"elo": 750.0
+			"elo": 808.0
 
 		},
 		"model": "rank.player",
-		"pk": 387
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Ryan",
-
-			"last_name": "Griffin",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 388
-
+		"pk": 224
 	},
 	{
 
@@ -6217,28 +3368,11 @@
 
 			"last_name": "Gronkowski",
 
-			"elo": 750.0
+			"elo": 850.0
 
 		},
 		"model": "rank.player",
-		"pk": 389
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "James",
-
-			"last_name": "Hanna",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 390
-
+		"pk": 225
 	},
 	{
 
@@ -6249,124 +3383,11 @@
 
 			"last_name": "Harbor",
 
-			"elo": 750.0
+			"elo": 788.0
 
 		},
 		"model": "rank.player",
-		"pk": 391
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Cory",
-
-			"last_name": "Harkey",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 392
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Demetrius",
-
-			"last_name": "Harris",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 393
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Cooper",
-
-			"last_name": "Helfet",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 394
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Ryan",
-
-			"last_name": "Hewitt",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 395
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Josh",
-
-			"last_name": "Hill",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 396
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Michael",
-
-			"last_name": "Hoomanawanui",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 397
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Gator",
-
-			"last_name": "Hoskins",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 398
-
+		"pk": 226
 	},
 	{
 
@@ -6377,28 +3398,11 @@
 
 			"last_name": "Housler",
 
-			"elo": 750.0
+			"elo": 766.0
 
 		},
 		"model": "rank.player",
-		"pk": 399
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Nic",
-
-			"last_name": "Jacobs",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 400
-
+		"pk": 227
 	},
 	{
 
@@ -6409,60 +3413,11 @@
 
 			"last_name": "Kelce",
 
-			"elo": 750.0
+			"elo": 834.0
 
 		},
 		"model": "rank.player",
-		"pk": 401
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Lance",
-
-			"last_name": "Kendricks",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 402
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Brian",
-
-			"last_name": "Leonhardt",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 403
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Vance",
-
-			"last_name": "McDonald",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 404
-
+		"pk": 228
 	},
 	{
 
@@ -6473,12 +3428,11 @@
 
 			"last_name": "Miller",
 
-			"elo": 750.0
+			"elo": 818.0
 
 		},
 		"model": "rank.player",
-		"pk": 405
-
+		"pk": 229
 	},
 	{
 
@@ -6489,44 +3443,11 @@
 
 			"last_name": "Miller",
 
-			"elo": 750.0
+			"elo": 764.0
 
 		},
 		"model": "rank.player",
-		"pk": 406
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Brandon",
-
-			"last_name": "Myers",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 407
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Troy",
-
-			"last_name": "Niklas",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 408
-
+		"pk": 230
 	},
 	{
 
@@ -6537,44 +3458,11 @@
 
 			"last_name": "Olsen",
 
-			"elo": 750.0
+			"elo": 844.0
 
 		},
 		"model": "rank.player",
-		"pk": 409
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Michael",
-
-			"last_name": "Palmer",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 410
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Bear",
-
-			"last_name": "Pascoe",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 411
-
+		"pk": 231
 	},
 	{
 
@@ -6585,60 +3473,11 @@
 
 			"last_name": "Paul",
 
-			"elo": 750.0
+			"elo": 794.0
 
 		},
 		"model": "rank.player",
-		"pk": 412
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Logan",
-
-			"last_name": "Paulsen",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 413
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Brandon",
-
-			"last_name": "Pettigrew",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 414
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "John",
-
-			"last_name": "Phillips",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 415
-
+		"pk": 232
 	},
 	{
 
@@ -6649,12 +3488,11 @@
 
 			"last_name": "Quarless",
 
-			"elo": 750.0
+			"elo": 770.0
 
 		},
 		"model": "rank.player",
-		"pk": 416
-
+		"pk": 233
 	},
 	{
 
@@ -6665,76 +3503,11 @@
 
 			"last_name": "Reed",
 
-			"elo": 750.0
+			"elo": 826.0
 
 		},
 		"model": "rank.player",
-		"pk": 417
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Mychal",
-
-			"last_name": "Rivera",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 418
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Adrien",
-
-			"last_name": "Robinson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 419
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Richard",
-
-			"last_name": "Rodgers",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 420
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Dante",
-
-			"last_name": "Rosario",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 421
-
+		"pk": 234
 	},
 	{
 
@@ -6745,12 +3518,11 @@
 
 			"last_name": "Rudolph",
 
-			"elo": 750.0
+			"elo": 812.0
 
 		},
 		"model": "rank.player",
-		"pk": 422
-
+		"pk": 235
 	},
 	{
 
@@ -6761,92 +3533,11 @@
 
 			"last_name": "Seferian-Jenkins",
 
-			"elo": 750.0
+			"elo": 800.0
 
 		},
 		"model": "rank.player",
-		"pk": 423
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Dion",
-
-			"last_name": "Sims",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 424
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Lee",
-
-			"last_name": "Smith",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 425
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Luke",
-
-			"last_name": "Stocker",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 426
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Zach",
-
-			"last_name": "Sudfeld",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 427
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Jacob",
-
-			"last_name": "Tamme",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 428
-
+		"pk": 236
 	},
 	{
 
@@ -6857,60 +3548,11 @@
 
 			"last_name": "Thomas",
 
-			"elo": 750.0
+			"elo": 848.0
 
 		},
 		"model": "rank.player",
-		"pk": 429
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Jordan",
-
-			"last_name": "Thompson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 430
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Taylor",
-
-			"last_name": "Thompson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 431
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Levine",
-
-			"last_name": "Toilolo",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 432
-
+		"pk": 237
 	},
 	{
 
@@ -6921,60 +3563,11 @@
 
 			"last_name": "Walker",
 
-			"elo": 750.0
+			"elo": 838.0
 
 		},
 		"model": "rank.player",
-		"pk": 433
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Benjamin",
-
-			"last_name": "Watson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 434
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Brandon",
-
-			"last_name": "Williams",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 435
-
-	},
-	{
-
-		"fields": {
-			"position": "TE",
-
-			"first_name": "Luke",
-
-			"last_name": "Willson",
-
-			"elo": 750.0
-
-		},
-		"model": "rank.player",
-		"pk": 436
-
+		"pk": 238
 	},
 	{
 
@@ -6985,12 +3578,11 @@
 
 			"last_name": "Witten",
 
-			"elo": 750.0
+			"elo": 822.0
 
 		},
 		"model": "rank.player",
-		"pk": 437
-
+		"pk": 239
 	},
 	{
 
@@ -7001,11 +3593,10 @@
 
 			"last_name": "Wright",
 
-			"elo": 750.0
+			"elo": 802.0
 
 		},
 		"model": "rank.player",
-		"pk": 438
-
+		"pk": 240
 	}
 ]

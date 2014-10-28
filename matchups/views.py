@@ -10,13 +10,14 @@ from rank.models import Player,Matchup
 
 # Create your views here.
 def mindex(request):
-    #mlist = list(Matchup.objects.order_by('created_at'))
+    count = Matchup.objects.count()
     template = loader.get_template('matchups/matchups.html')
-    context = RequestContext(request, {"""'mlist':mlist"""})
+    context = RequestContext(request, {'count':count})
     return HttpResponse(template.render(context))
     
 def get(request, id):
     names = []
+    count = Matchup.objects.count()
     #mList = list(Matchup.objects.order_by('created_at'))
     matchup = None
     try:
@@ -27,7 +28,7 @@ def get(request, id):
     except:
         pass#return HttpResponse("invalid matchup")    
     template = loader.get_template('matchups/specific.html')
-    context = RequestContext(request, {'id':id, 'names':names, 'matchup':matchup, })
+    context = RequestContext(request, {'id':id, 'names':names, 'matchup':matchup, 'count':count, })
     return HttpResponse(template.render(context))
     
 def vote1(request, id):
@@ -59,6 +60,7 @@ def vote1(request, id):
     ################
     
     matchup.save()
+    #CHANGE THIS TO A RANDOM NUMBER
     newid = str(int(id)+1)
     uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
@@ -97,6 +99,7 @@ def vote2(request, id):
     ################
     
     matchup.save()
+    #CHANGE THIS TO A RANDOM NUMBER
     newid = str(int(id)+1)
     uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
