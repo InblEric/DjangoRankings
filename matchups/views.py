@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.template import RequestContext, loader
 import logging
 from math import exp
+import random
 
 # Create your views here.
 
