@@ -20,7 +20,10 @@
 		<script>
 			function myFunction() {
 				//make this a random number
-				window.location = "/matchups/1"
+				//max value = {{count}}
+				//min value = 1
+				var num = Math.floor(Math.random() * ({{count}} - 1 + 1)) + 1;				
+				window.location = "/matchups/"+num
 			}
 		</script>
 		
