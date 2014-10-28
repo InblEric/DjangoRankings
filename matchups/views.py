@@ -61,7 +61,8 @@ def vote1(request, id):
     
     matchup.save()
     #CHANGE THIS TO A RANDOM NUMBER
-    newid = str(int(id)+1)
+    r = random.randint(1,Matchup.objects.count())
+    newid = str(r)
     uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    
@@ -100,7 +101,8 @@ def vote2(request, id):
     
     matchup.save()
     #CHANGE THIS TO A RANDOM NUMBER
-    newid = str(int(id)+1)
+    r = random.randint(1,Matchup.objects.count())
+    newid = str(r)
     uri = "/matchups/"+newid
     js = "window.location = '" + uri + "'"
     resp = HttpResponse()    

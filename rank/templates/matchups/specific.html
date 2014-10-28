@@ -41,8 +41,13 @@
 		<!--make this pick a random matchup and doesn't repeat!!-->
 		<script>
 			function myFunction() {
-			    var num = {{id}}+1
+			    var num = {{id}}
 			    //make this num a random number
+			    //max value = {{count}}
+				//min value = 1				
+				while(num == {{id}}) {
+				    var num = Math.floor(Math.random() * ({{count}} - 1 + 1)) + 1;
+				}
 				window.location = "/matchups/"+num
 			}			
 		</script>
