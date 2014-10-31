@@ -7,5 +7,6 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
 	url(r'^players/', include('players.urls')),
 	url(r'^matchups/', include('matchups.urls')),		
+	url(r'^about/', include('about.urls')),		
 	url(r'^$', include('rank.urls')),
 )

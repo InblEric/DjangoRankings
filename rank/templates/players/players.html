@@ -2,95 +2,102 @@
 	<head>
 	    {% load static %}
 		<link type="text/css" rel="stylesheet" href="{% static 'playersstylesheet.css' %}" media = "screen"/>
-		<title>Homepage</title>
+		<!-- Bootstrap -->
+        <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" media="screen">
+        <link href="{% static 'css/main.css' %}" rel="stylesheet" media="screen">        
+        <!--link href="{% static 'css/home.css' %}" rel="stylesheet" media="screen"-->
 	</head>
 	<body>
-	<p id="welcome">
-	Hello, world. You're at the rankings page.
-	</p>
-	<p>
-	    <button onclick="home()">Home Page</button>
-    </p>
-    <script>
-			function home() {
-				window.location = "/"
-			}
-	</script>
-	<div id="parent">
-	<div id="QB" class="position">
-	<p> Quarterbacks:
-	{% if qbs %}
-		<ul>
-		{% for player in qbs %}
-			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
-			<p>elo: {{ player.elo }}</p></li>
-		{% endfor %}
-		</ul>
-	{% else %}
-		<p>No Quarterbacks are available.</p>
-	{% endif %}
-	</p>
-	</div>
 	
-	<div id="RB" class="position">
-	<p> Running backs:
-	{% if rbs %}
-		<ul>
-		{% for player in rbs %}
-			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
-			<p>elo: {{ player.elo }}</p></li>
-		{% endfor %}
-		</ul>
-	{% else %}
-		<p>No Running backs are available.</p>
-	{% endif %}
-	</p>
-	</div>
+		<div class="navbar">
+          <div class="navbar-inner">
+            <div class="container">
+              <ul class="nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="/matchups/">Vote</a></li>
+                <li class="active"><a href="/players/">Ranks</a></li>
+              </ul>
+            </div>
+          </div>
+        </div--><!-- /.navbar -->
+        
+        
 	
-	<div id="WR" class="position">
-	<p> Wide Receivers:
-	{% if wrs %}
-		<ul>
-		{% for player in wrs %}
-			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
-			<p>elo: {{ player.elo }}</p></li>
-		{% endfor %}
-		</ul>
-	{% else %}
-		<p>No Wide Receivers are available.</p>
-	{% endif %}
-	</p>
-	</div>
+		<div id="parent">
+			<div id="QB" class="position">
+				<p> Quarterbacks:
+				{% if qbs %}
+					<ul>
+						{% for player in qbs %}
+							<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+							<p>elo: {{ player.elo }}</p></li>
+						{% endfor %}
+					</ul>
+				{% else %}
+					<p>No Quarterbacks are available.</p>
+				{% endif %}
+				</p>
+			</div>
 	
-	<div id="TE" class="position">
-	<p> Tight Ends:
-	{% if tes %}
-		<ul>
-		{% for player in tes %}
-			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
-			<p>elo: {{ player.elo }}</p></li>
-		{% endfor %}
-		</ul>
-	{% else %}
-		<p>No Tight Ends are available.</p>
-	{% endif %}
-	</p>
-	</div>
+			<div id="RB" class="position">
+				<p> Running backs:
+					{% if rbs %}
+						<ul>
+							{% for player in rbs %}
+								<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+								<p>elo: {{ player.elo }}</p></li>
+							{% endfor %}
+						</ul>
+					{% else %}
+						<p>No Running backs are available.</p>
+					{% endif %}
+				</p>
+			</div>
+	
+			<div id="WR" class="position">
+				<p> Wide Receivers:
+					{% if wrs %}
+						<ul>
+							{% for player in wrs %}
+								<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+								<p>elo: {{ player.elo }}</p></li>
+							{% endfor %}
+						</ul>
+					{% else %}
+						<p>No Wide Receivers are available.</p>
+					{% endif %}
+				</p>
+			</div>
+		
+			<div id="TE" class="position">
+				<p> Tight Ends:
+					{% if tes %}
+						<ul>
+							{% for player in tes %}
+								<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+								<p>elo: {{ player.elo }}</p></li>
+							{% endfor %}
+						</ul>
+					{% else %}
+						<p>No Tight Ends are available.</p>
+					{% endif %}
+				</p>
+			</div>
 
-	<!--div id="Flex" class="position">
-	<p> Flex:
-	{% if flex %}
-		<ul>
-		{% for player in flex %}
-			<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
-			<p>elo: {{ player.elo }}</p></li>
-		{% endfor %}
-		</ul>
-	{% else %}
-		<p>No Flex players are available.</p>
-	{% endif %}
-	</p>
-	</div-->
-	</div>
+			<!--div id="Flex" class="position">
+				<p> Flex:
+					{% if flex %}
+						<ul>
+							{% for player in flex %}
+								<li><p>{{forloop.counter}}: {{ player.first_name }} {{ player.last_name }}, {{ player.position }},</p> 
+								<p>elo: {{ player.elo }}</p></li>
+							{% endfor %}
+						</ul>
+					{% else %}
+						<p>No Flex players are available.</p>
+					{% endif %}
+				</p>
+			</div-->
+		</div>
 	</body>
 </html>

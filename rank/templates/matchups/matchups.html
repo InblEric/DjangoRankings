@@ -1,19 +1,76 @@
 <html>
 	<head>
-		<p>
-			Hello, world. You're at the voting page.
-		</p>
+		{% load static %}
+		<link type="text/css" rel="stylesheet" href="{% static 'rankstylesheet.css' %}"/>
+		<!-- Bootstrap -->
+        <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" media="screen">
+        <link href="{% static 'css/main.css' %}" rel="stylesheet" media="screen">        
+        <!--link href="{% static 'css/home.css' %}" rel="stylesheet" media="screen"-->
 	</head>
-
 	<body>
+	
+	
+	    <div class="navbar">
+          <div class="navbar-inner">
+            <div class="container">
+              <ul class="nav">
+                <li><a href="/">Home</a></li>
+                <li class="active"><a href="/matchups/">Vote</a></li>
+                <li><a href="/players/">Ranks</a></li>
+              </ul>
+            </div>
+          </div>
+        </div><!-- /.navbar -->
+        
+        <div class="container">
+      		
+        
+      
 
-		<p>
+			<!-- Example row of columns -->
+			<div class="row-fluid">
+				<div class="span4">
+					<h2>Start Voting!</h2>          			
+					<p><a class="btn" onclick="myFunction()">Start Voting!&raquo;</a></p>
+        		</div>
+        		<div class="span4">
+					<h2>Vote on QBs</h2>					
+          			<p><a class="btn" >Coming soon...</a></p>
+       			</div>
+        		<div class="span4">
+					<h2>Vote on RBs</h2>					
+          			<p><a class="btn" >Coming soon...</a></p>
+       			</div>
+						
+        		
+      		</div>
+      		
+      		<div class="row-fluid">
+				<div class="span2"></div>
+				<div class="span4">
+					<h2>Vote on WRs</h2>					
+          			<p><a class="btn" >Coming soon...</a></p>
+       			</div>
+       			<div class="span4">
+					<h2>Vote on TEs</h2>					
+          			<p><a class="btn" >Coming soon...</a></p>
+       			</div>
+						
+        		
+      		</div>
+      		
+      		
+      		   
+
+	    </div> 
+
+		<!--p>
 			<button onclick="myFunction()">Start Voting!</button>
 		</p>
 		
 		<p>
 			<button onclick="home()">Home Page</button>
-		</p>
+		</p-->
 
 
 		<!--make this pick a random matchup and doesn't repeat!!-->
@@ -33,20 +90,11 @@
 			}
 		</script>
 		
-		<!--
-		<p> Matchups:
-		{% if mlist %}
-		<ul>
-		{% for matchup in mlist %}
-			<li><p>{{ matchup.player1.first_name }} : {{ matchup.p1Votes}} votes vs {{ matchup.player2.first_name }} : {{ matchup.p2Votes}} votes</p>
-			<p>{{ matchup.player1.elo }} elo vs {{ matchup.player2.elo }} elo</p></li>
-		{% endfor %}
-		</ul>
-		{% else %}
-		<p>No matchups are available.</p>
-		{% endif %}
-		-->
-	</p>
+		
+		
+		
+		
+	
 		
 		
 		

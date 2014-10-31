@@ -1,0 +1,41 @@
+body {
+    position: relative;
+}
+div#shell {
+    display: block;
+    position: relative;
+    margin: 100px auto;
+    width: 800px;
+    height: 300px;
+    z-index: 0;
+}
+img#lol-logo {
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    z-index: 4;
+}
+img#ezreal {
+    position: absolute;
+    z-index: 2;
+    top: 0px;
+    left: 50%;
+}
+img#urgot {
+    position: absolute;
+    z-index: 3;
+    top: 0px;
+    left: -25%;
+}
+img#ashe{
+    position: absolute;
+    z-index: 5;
+    top: 0px;
+    left: 70%;
+}
+img#vlad{
+    position: absolute;
+    z-index: 6;
+    top: 0px;
+    left: -40%;
+}

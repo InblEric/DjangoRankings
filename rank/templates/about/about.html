@@ -1,0 +1,49 @@
+<html>
+	<head>
+	    {% load static %}
+		<link type="text/css" rel="stylesheet" href="{% static 'rankstylesheet.css' %}"/>
+		<!-- Bootstrap -->
+        <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" media="screen">
+        <link href="{% static 'css/main.css' %}" rel="stylesheet" media="screen">        
+        <!--link href="{% static 'css/home.css' %}" rel="stylesheet" media="screen"-->
+	</head>
+	<body>					
+		
+		<script>
+			function home() {
+				window.location = "/"
+			}
+		</script>
+		
+		
+		<div class="container">
+		
+			<div class="row-fluid">				
+				<div class="span4">
+					<!--h2>Back</h2-->					
+          			<p><a class="btn" onclick="home()">Back</a></p>
+       			</div>		        		
+      		</div>
+		
+      		<div class="masthead">
+		        <div>
+        		  <div style="float: left;"> <h3 class="muted">About Page</h3></div>
+		          <div style="width: 40%; height: 60px; position: relative; left: 73%; top: -40px;"></div>
+			</div>
+			
+			
+			
+			<p>
+				Made by Eric and Michael Wehrmeister.
+			</p>
+			<p>	
+				Built with django and twitter bootstrap.
+			</p>
+			<p>
+				Currently running on heroku.
+			</p>
+
+	    </div> 
+			
+	</body>
+</html>
