@@ -69,7 +69,7 @@ def vote1(request, id):
     resp = HttpResponse()    
     resp.write("<body onload='myFunction()'>")
     resp.write("<script> function myFunction() {"+js+"}</script>")
-    resp.write(".")
+    resp.write("")
     resp.write("</body>")
     return resp
     
@@ -109,7 +109,7 @@ def vote2(request, id):
     resp = HttpResponse()    
     resp.write("<body onload='myFunction()'>")
     resp.write("<script> function myFunction() {"+js+"}</script>")
-    resp.write(".")
+    resp.write("")
     resp.write("</body>")
     return resp
     
