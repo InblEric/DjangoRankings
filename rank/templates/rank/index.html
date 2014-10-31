@@ -2,21 +2,59 @@
 	<head>
 	    {% load static %}
 		<link type="text/css" rel="stylesheet" href="{% static 'rankstylesheet.css' %}"/>
-		<title>Homepage</title>
+		<!-- Bootstrap -->
+        <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" media="screen">
+        <link href="{% static 'css/main.css' %}" rel="stylesheet" media="screen">        
+        <!--link href="{% static 'css/home.css' %}" rel="stylesheet" media="screen"-->
 	</head>
-	<body>
-		<p>
-		Hello, world. You're at the home page. 
+	<body>					
+		
 
-		You have a couple options.
-		</p>
+		<div class="navbar">
+          <div class="navbar-inner">
+            <div class="container">
+              <ul class="nav">
+                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/matchups/">Vote</a></li>
+                <li><a href="/players/">Ranks</a></li>
+              </ul>
+            </div>
+          </div>
+        </div><!-- /.navbar -->
+		
+		
+		<div class="container">
+      		<div class="masthead">
+		        <div>
+        		  <div style="float: left;"> <h3 class="muted">Fantasy Football Elo User Rankings</h3></div>
+		          <div style="width: 40%; height: 60px; position: relative; left: 73%; top: -40px;"></div>
+			</div>
+        
+      
 
-		<p>
-			<button type="button" onclick="window.location=/matchups/">vote on matchups</button>
-		</p>
+			<!-- Example row of columns -->
+			<div class="row-fluid">
+				<div class="span4">
+					<h2>Vote</h2>
+          			<p>Vote on 1 on 1 matchups to help improve our rankings!</p>
+					<p><a class="btn" href="/matchups/">Vote&raquo;</a></p>
+        		</div>
+        		<div class="span4">
+					<h2>Rankings</h2>
+					<p>Check out the rankings we've generated based on your (and others') votes!</p>
+          			<p><a class="btn" href="/players/">Rankings&raquo;</a></p>
+       			</div>
+        		<div class="span4">
+					<h2>About</h2>
+          			<p>Learn how we rank players and how this website works!</p>
+          			<p><a class="btn" href="/about/">About&raquo;</a></p>
+        		</div>
+      		</div>
+      		<div class="footer">
+		        <!--p>&copy;Eric Wehrmeister and Michael Wehrmeister</p-->
+			</div>
 
-		<p>
-			<button type="button" onclick="window.location=/players/">See ranks</button>
-		</p>
-		</body>
+	    </div> 
+			
+	</body>
 </html>

@@ -110,4 +110,5 @@ STATICFILES_DIRS = (
 
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'michael'),
+    os.path.join(BASE_DIR, 'bootstrap'),
 )
